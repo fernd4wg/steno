@@ -2739,7 +2739,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-1608-08_AVX-J_HandSolder"
 			(at 110.1852 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -2897,7 +2897,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-1608-08_AVX-J_HandSolder"
 			(at 72.0852 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -2976,7 +2976,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-1608-08_AVX-J_HandSolder"
 			(at 101.2952 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -3055,7 +3055,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-1608-08_AVX-J_HandSolder"
 			(at 80.9752 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -3371,7 +3371,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12"
 			(at 33.02 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -3490,7 +3490,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 60.96 21.59 0)
 			(hide yes)
 			(show_name no)
@@ -4286,7 +4286,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-1608-08_AVX-J_HandSolder"
 			(at 73.3552 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -4447,7 +4447,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-1608-08_AVX-J_HandSolder"
 			(at 22.5552 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -4762,7 +4762,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-1608-08_AVX-J_HandSolder"
 			(at 89.8652 101.6 0)
 			(hide yes)
 			(show_name no)
