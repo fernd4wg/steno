@@ -1169,7 +1169,7 @@
 			)
 		)
 	)
-	(global_label "COL_2"
+	(global_label "ROW_2"
 		(shape input)
 		(at 120.65 102.87 0)
 		(fields_autoplaced yes)
@@ -1181,7 +1181,7 @@
 		)
 		(uuid "638c5ed6-0532-4dde-ad6d-3fcc57a11e80")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 129.4409 102.87 0)
+			(at 129.8642 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1217,7 +1217,7 @@
 			)
 		)
 	)
-	(global_label "COL_5"
+	(global_label "ROW_5"
 		(shape input)
 		(at 120.65 167.64 0)
 		(fields_autoplaced yes)
@@ -1229,7 +1229,7 @@
 		)
 		(uuid "88e7e0ca-75a4-4d27-82c3-0e7c50ba7ec6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 129.4409 167.64 0)
+			(at 129.8642 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1241,7 +1241,7 @@
 			)
 		)
 	)
-	(global_label "COL_1"
+	(global_label "ROW_1"
 		(shape input)
 		(at 120.65 82.55 0)
 		(fields_autoplaced yes)
@@ -1253,7 +1253,7 @@
 		)
 		(uuid "91516df1-b35d-491a-9057-f6e5c2360789")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 129.4409 82.55 0)
+			(at 129.8642 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1265,7 +1265,7 @@
 			)
 		)
 	)
-	(global_label "COL_4"
+	(global_label "ROW_4"
 		(shape input)
 		(at 120.65 146.05 0)
 		(fields_autoplaced yes)
@@ -1277,7 +1277,7 @@
 		)
 		(uuid "960cc7cf-107f-41e1-a4fb-764b4f59f659")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 129.4409 146.05 0)
+			(at 129.8642 146.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1313,7 +1313,7 @@
 			)
 		)
 	)
-	(global_label "COL_3"
+	(global_label "ROW_3"
 		(shape input)
 		(at 120.65 124.46 0)
 		(fields_autoplaced yes)
@@ -1325,7 +1325,7 @@
 		)
 		(uuid "c37f62e1-cf21-4852-9a79-792de1f41978")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 129.4409 124.46 0)
+			(at 129.8642 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
