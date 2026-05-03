@@ -388,52 +388,22 @@
 		(uuid "0def8090-36ae-4793-8dd8-fe145608d8ec")
 	)
 	(junction
-		(at 50.8 133.35)
+		(at 170.18 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "13b51119-9c6e-4da3-b0e9-a498aad65fa4")
+		(uuid "1808da3b-0e7e-45d1-8e64-0cf63fc0bb36")
 	)
 	(junction
-		(at 106.68 124.46)
+		(at 165.1 69.85)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "1891b486-11cb-4066-b988-b551572f8822")
+		(uuid "19c114a1-d4a5-4161-bd0b-86e6cd640e9d")
 	)
 	(junction
-		(at 106.68 82.55)
+		(at 139.7 69.85)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "1dcfab24-3fc4-4cf7-8a77-f63a35634443")
-	)
-	(junction
-		(at 63.5 133.35)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1ed21f73-5f5e-43af-8791-763c862fa454")
-	)
-	(junction
-		(at 63.5 90.17)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1f325798-7022-48c8-ba72-86069b5adf8b")
-	)
-	(junction
-		(at 68.58 146.05)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "31b14295-7677-4af4-8dbb-adfc476f77ca")
-	)
-	(junction
-		(at 88.9 90.17)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "37c055b0-a68c-42f4-a698-d4d01b79b863")
-	)
-	(junction
-		(at 68.58 124.46)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "395fac0f-5f95-42d3-a6e4-ca787b545135")
+		(uuid "30df6ea8-91dd-498e-89d4-db4b948d5a1c")
 	)
 	(junction
 		(at 50.8 69.85)
@@ -448,34 +418,28 @@
 		(uuid "5333df83-4608-4d18-aa5e-6a46a7f716e4")
 	)
 	(junction
-		(at 101.6 133.35)
+		(at 132.08 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "5796641f-645d-4859-a986-e0c43c7a0fd4")
+		(uuid "5ca4dc30-4d38-4ba6-861c-df5c28c26685")
 	)
 	(junction
-		(at 81.28 146.05)
+		(at 119.38 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "5b5f074f-7041-4bcf-b0a2-4342cb9bacec")
+		(uuid "65c7c3f6-619f-4ab7-bb80-23506a340139")
 	)
 	(junction
-		(at 76.2 133.35)
+		(at 127 69.85)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "6633941f-e092-4424-92d3-808c22d7346d")
+		(uuid "6d4f69cc-05c5-486a-8cc0-ad52a3487952")
 	)
 	(junction
-		(at 93.98 124.46)
+		(at 114.3 69.85)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "6ce25e59-aab8-4b2f-ad3a-1e61819b0588")
-	)
-	(junction
-		(at 93.98 167.64)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "745b9577-c727-4b9c-93d5-b12e0ccfa467")
+		(uuid "7727eef6-2dbd-4e57-999e-6ace573ec8b4")
 	)
 	(junction
 		(at 68.58 102.87)
@@ -484,16 +448,10 @@
 		(uuid "7a78786e-b238-4ddd-8de9-e90e1096d447")
 	)
 	(junction
-		(at 76.2 90.17)
+		(at 106.68 102.87)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "7c73173c-2b83-4055-8c7c-ca932094048d")
-	)
-	(junction
-		(at 81.28 124.46)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7e8d8cd7-842c-49f7-b4a5-75b202992872")
+		(uuid "7fd0571b-4dc9-4119-845c-ffddad2a6525")
 	)
 	(junction
 		(at 63.5 69.85)
@@ -502,22 +460,34 @@
 		(uuid "7fd424e5-fb73-422d-ac21-d73a621f5bc9")
 	)
 	(junction
-		(at 106.68 167.64)
+		(at 106.68 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "94edf22d-cb55-483a-8dec-339b4228965b")
+		(uuid "85d09cdf-307f-4bcc-9829-397e168de3cb")
 	)
 	(junction
-		(at 101.6 90.17)
+		(at 157.48 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "9b3544a8-cc73-4538-b7b1-29cfa782fe3c")
+		(uuid "87cb491d-f673-4c00-b5bc-09d13a5391e1")
 	)
 	(junction
-		(at 101.6 111.76)
+		(at 170.18 102.87)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "9bbdba70-a1fb-4326-8992-2f2ee516c2b2")
+		(uuid "93835429-e32d-498c-8879-b9db4e0e8bcc")
+	)
+	(junction
+		(at 144.78 102.87)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "99c314ed-b8a5-4d46-8026-9b1228e24fb3")
+	)
+	(junction
+		(at 152.4 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a71b693c-a5c3-4738-8944-c7fe013803c6")
 	)
 	(junction
 		(at 93.98 102.87)
@@ -526,34 +496,22 @@
 		(uuid "aeb4cefd-9234-4de4-95b7-1e73120a56dd")
 	)
 	(junction
-		(at 88.9 133.35)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b16b21a7-eb5a-4e73-a038-7627c6296ffd")
-	)
-	(junction
 		(at 93.98 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b411fe33-67e7-46ba-aca5-d6bbb91e6df2")
 	)
 	(junction
-		(at 68.58 167.64)
+		(at 119.38 102.87)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "c00b50bc-006a-44ec-a1fe-617b1127ef15")
+		(uuid "c7904aef-015c-41eb-8c75-ae4c5ed3e4a6")
 	)
 	(junction
-		(at 50.8 111.76)
+		(at 132.08 102.87)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "cd3695d5-fd14-4fb8-89c7-e6b7d651187a")
-	)
-	(junction
-		(at 106.68 102.87)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "cee3e882-45ca-4149-b2ca-30a52bb477de")
+		(uuid "cb4065ff-05ef-48c1-8ed7-dea0a8c95364")
 	)
 	(junction
 		(at 68.58 82.55)
@@ -562,10 +520,10 @@
 		(uuid "cfa9a1b3-41ea-4086-89c5-b7dca17e8571")
 	)
 	(junction
-		(at 63.5 111.76)
+		(at 144.78 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "d97528e6-df9e-4d8b-a102-35cebd7347e5")
+		(uuid "d46d6f3c-6efa-4006-98a0-e0a98abfe7cf")
 	)
 	(junction
 		(at 88.9 69.85)
@@ -574,52 +532,22 @@
 		(uuid "da696b11-d533-44c2-baa4-09150704d173")
 	)
 	(junction
-		(at 81.28 167.64)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "df801b96-2812-4a44-9bed-2d7d6ff6adb2")
-	)
-	(junction
-		(at 93.98 146.05)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e0617640-5e70-4b9d-95a8-8caa0311076c")
-	)
-	(junction
 		(at 101.6 69.85)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e7adbce0-8c6c-4e86-9be6-9832ae436313")
 	)
 	(junction
-		(at 76.2 111.76)
+		(at 157.48 102.87)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "ebe29c91-1bd6-4c14-bbc2-5e87ccbf4d7e")
-	)
-	(junction
-		(at 88.9 111.76)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f83d1b9a-3499-408c-9a1a-6a2d7fb9418e")
-	)
-	(junction
-		(at 106.68 146.05)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f8a4d4fe-5043-437d-8e2a-71502ecf013d")
+		(uuid "f54181a9-5a5d-405b-b89f-c3ef9a87ce6a")
 	)
 	(junction
 		(at 81.28 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f8ad12e1-0bbb-4dd1-8b37-5c39c480a7e4")
-	)
-	(junction
-		(at 50.8 90.17)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fb6fc6f4-e506-49c5-9458-15523fb92a5a")
 	)
 	(wire
 		(pts
@@ -643,33 +571,13 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 111.76) (xy 88.9 133.35)
+			(xy 157.48 82.55) (xy 170.18 82.55)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0e133d32-9d94-4fa5-8707-70e222b1dc5f")
-	)
-	(wire
-		(pts
-			(xy 120.65 167.64) (xy 106.68 167.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "169b9531-7dbe-4c3c-aa55-45f5b05f2196")
-	)
-	(wire
-		(pts
-			(xy 101.6 133.35) (xy 101.6 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1f29c193-6634-4a38-8d32-8925db980d0a")
+		(uuid "0ee2e186-ac33-41f5-9966-2227d21eda9f")
 	)
 	(wire
 		(pts
@@ -683,93 +591,13 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 133.35) (xy 76.2 154.94)
+			(xy 106.68 102.87) (xy 119.38 102.87)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "21eb0c99-8a3b-4e05-b3aa-d77ada3a12f0")
-	)
-	(wire
-		(pts
-			(xy 63.5 111.76) (xy 63.5 133.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "231cb954-a44b-4822-bb2d-9f5533c9c69e")
-	)
-	(wire
-		(pts
-			(xy 55.88 146.05) (xy 68.58 146.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "25b40f57-b914-46be-8060-a95ebe11c560")
-	)
-	(wire
-		(pts
-			(xy 101.6 90.17) (xy 101.6 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2914fc29-9f36-4d11-ac6c-72be0110231f")
-	)
-	(wire
-		(pts
-			(xy 81.28 167.64) (xy 93.98 167.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2dea3e76-1e87-4e9e-a1ad-a7295574d08d")
-	)
-	(wire
-		(pts
-			(xy 81.28 146.05) (xy 93.98 146.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2eaa9dcf-a312-4967-986c-facc7e417563")
-	)
-	(wire
-		(pts
-			(xy 63.5 133.35) (xy 63.5 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "32cba12f-f245-4784-a84c-fe929b093ce8")
-	)
-	(wire
-		(pts
-			(xy 76.2 90.17) (xy 76.2 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "33b75edf-8932-4141-a0d1-76d2c68837b4")
-	)
-	(wire
-		(pts
-			(xy 106.68 146.05) (xy 120.65 146.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "356a8773-78cc-4c0e-bea5-353ba40ffbcc")
+		(uuid "22725827-cb93-436b-a5fa-52680ef21f52")
 	)
 	(wire
 		(pts
@@ -783,6 +611,26 @@
 	)
 	(wire
 		(pts
+			(xy 152.4 69.85) (xy 152.4 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45fbfc12-7910-47cc-a6d8-9a87415a6e40")
+	)
+	(wire
+		(pts
+			(xy 119.38 82.55) (xy 132.08 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "49084334-f66f-4428-8023-6f5e99e7b091")
+	)
+	(wire
+		(pts
 			(xy 68.58 102.87) (xy 81.28 102.87)
 		)
 		(stroke
@@ -790,6 +638,36 @@
 			(type default)
 		)
 		(uuid "4a627955-bf11-4505-a66b-eb77b7973ae9")
+	)
+	(wire
+		(pts
+			(xy 165.1 69.85) (xy 165.1 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e7af45d-2918-42e1-96c2-c53d90c667b5")
+	)
+	(wire
+		(pts
+			(xy 144.78 102.87) (xy 157.48 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5190d6e3-3236-415d-b4b0-d8ff725a1d86")
+	)
+	(wire
+		(pts
+			(xy 139.7 58.42) (xy 139.7 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "51fe62e3-674b-464e-a6df-9d7cb52fb7a2")
 	)
 	(wire
 		(pts
@@ -803,23 +681,13 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 146.05) (xy 106.68 146.05)
+			(xy 106.68 82.55) (xy 119.38 82.55)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "554de1cf-70cc-4fa3-8049-1b93a3ff6fe5")
-	)
-	(wire
-		(pts
-			(xy 55.88 124.46) (xy 68.58 124.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5a191078-6939-418e-a319-df4d39245568")
+		(uuid "5b6ed62b-37cd-4f21-b6d6-860df7806b4b")
 	)
 	(wire
 		(pts
@@ -833,23 +701,13 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 82.55) (xy 120.65 82.55)
+			(xy 127 58.42) (xy 127 69.85)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "5f1ff039-339b-4a1c-9078-4ee3434bca17")
-	)
-	(wire
-		(pts
-			(xy 106.68 102.87) (xy 120.65 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "632f2fea-27ce-41c0-8bb5-fb05c69222e2")
+		(uuid "6091909b-737b-45bc-97cc-961e63a4e404")
 	)
 	(wire
 		(pts
@@ -873,16 +731,6 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 111.76) (xy 50.8 133.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "655f7ae0-3329-4aa0-857e-2351b5bef101")
-	)
-	(wire
-		(pts
 			(xy 93.98 82.55) (xy 106.68 82.55)
 		)
 		(stroke
@@ -893,53 +741,23 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 133.35) (xy 88.9 154.94)
+			(xy 152.4 58.42) (xy 152.4 69.85)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "8564f762-7f3a-44ec-8a17-a48884e236ae")
+		(uuid "6a84fec6-b9d7-47ed-8c7a-55a922aeb518")
 	)
 	(wire
 		(pts
-			(xy 88.9 90.17) (xy 88.9 111.76)
+			(xy 132.08 102.87) (xy 144.78 102.87)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "9322f654-ae6d-42c1-88b3-257aaed75f45")
-	)
-	(wire
-		(pts
-			(xy 68.58 124.46) (xy 81.28 124.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "94df0d13-9841-42a0-b3b5-73f95c227501")
-	)
-	(wire
-		(pts
-			(xy 50.8 133.35) (xy 50.8 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "95d7f5e7-e8f2-4864-b5d1-39be68df8bfd")
-	)
-	(wire
-		(pts
-			(xy 81.28 124.46) (xy 93.98 124.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "96233e18-41e5-4df2-8b3b-c458f07d9bf4")
+		(uuid "848cf9b1-0a76-4b42-b7a1-de033dbcfa91")
 	)
 	(wire
 		(pts
@@ -953,53 +771,23 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 167.64) (xy 68.58 167.64)
+			(xy 127 69.85) (xy 127 90.17)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a75e4ad9-d425-4d97-9e21-5cd9f1bb9e37")
+		(uuid "9740b1fa-37d4-482e-9da0-9d799b3cb02c")
 	)
 	(wire
 		(pts
-			(xy 63.5 90.17) (xy 63.5 111.76)
+			(xy 157.48 102.87) (xy 170.18 102.87)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a8a26ddc-12d1-4995-a4bc-938c09eaa218")
-	)
-	(wire
-		(pts
-			(xy 68.58 146.05) (xy 81.28 146.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ad6748de-2a11-4397-a246-cd68eb33c9d0")
-	)
-	(wire
-		(pts
-			(xy 50.8 90.17) (xy 50.8 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ae422018-216d-4348-825d-4a77c57a5812")
-	)
-	(wire
-		(pts
-			(xy 93.98 167.64) (xy 106.68 167.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b2e6fe29-8f6f-4764-9461-711e2cea2791")
+		(uuid "a55767e2-5dd8-4f50-b2f4-2277f239baa2")
 	)
 	(wire
 		(pts
@@ -1023,6 +811,16 @@
 	)
 	(wire
 		(pts
+			(xy 144.78 82.55) (xy 157.48 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b7f867da-bc4b-4030-a80f-5576d9b0ec2c")
+	)
+	(wire
+		(pts
 			(xy 55.88 102.87) (xy 68.58 102.87)
 		)
 		(stroke
@@ -1030,16 +828,6 @@
 			(type default)
 		)
 		(uuid "b8e3c4ae-c47d-4616-bfdf-e7cb0906139c")
-	)
-	(wire
-		(pts
-			(xy 93.98 124.46) (xy 106.68 124.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b90d73ee-a9df-47be-bd54-3e2f166a5744")
 	)
 	(wire
 		(pts
@@ -1053,33 +841,43 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 124.46) (xy 120.65 124.46)
+			(xy 170.18 82.55) (xy 184.15 82.55)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d1078650-b77d-4f7b-a77a-be2799e28507")
+		(uuid "c5d0e343-ae8e-416a-b3d4-e44006bc4885")
 	)
 	(wire
 		(pts
-			(xy 101.6 111.76) (xy 101.6 133.35)
+			(xy 132.08 82.55) (xy 144.78 82.55)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d50242de-ac94-440d-90fe-fdf3ae99ceab")
+		(uuid "c63657be-0249-4689-91b3-7a4e523defa2")
 	)
 	(wire
 		(pts
-			(xy 76.2 111.76) (xy 76.2 133.35)
+			(xy 114.3 69.85) (xy 114.3 90.17)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d69bb4e2-46e0-4622-8148-deeb986d01e3")
+		(uuid "c945b847-242e-47e4-9e3e-840393e9635a")
+	)
+	(wire
+		(pts
+			(xy 114.3 58.42) (xy 114.3 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d308c3f1-e999-482d-b3a2-fa19ca5d2d93")
 	)
 	(wire
 		(pts
@@ -1103,6 +901,16 @@
 	)
 	(wire
 		(pts
+			(xy 165.1 58.42) (xy 165.1 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eab02693-19f3-4349-9be7-0e5550e0f2e6")
+	)
+	(wire
+		(pts
 			(xy 63.5 58.42) (xy 63.5 69.85)
 		)
 		(stroke
@@ -1113,13 +921,81 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 167.64) (xy 81.28 167.64)
+			(xy 139.7 69.85) (xy 139.7 90.17)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ec3e731a-4706-4fb9-a471-a8ad6f112ac2")
+		(uuid "f6713a90-b5d9-4305-b4ec-630fb0fbc369")
+	)
+	(wire
+		(pts
+			(xy 119.38 102.87) (xy 132.08 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fde3e911-6711-4374-9758-2afe633cba91")
+	)
+	(wire
+		(pts
+			(xy 170.18 102.87) (xy 184.15 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe717956-0d5f-4d7e-aee8-ea0fdd34c8f2")
+	)
+	(global_label "COL_7"
+		(shape input)
+		(at 127 58.42 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1c9bcac2-2189-4958-b2ab-ad4284fb5786")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 127 49.6291 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "COL_6"
+		(shape input)
+		(at 114.3 58.42 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "441f2319-7e0f-44df-b2e7-91164c3c342a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 114.3 49.6291 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 	)
 	(global_label "COL_5"
 		(shape input)
@@ -1169,9 +1045,9 @@
 			)
 		)
 	)
-	(global_label "ROW_2"
+	(global_label "ROW_1"
 		(shape input)
-		(at 120.65 102.87 0)
+		(at 184.15 82.55 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1179,9 +1055,9 @@
 			)
 			(justify left)
 		)
-		(uuid "638c5ed6-0532-4dde-ad6d-3fcc57a11e80")
+		(uuid "61e48189-3063-4ea6-984d-9544ccd98512")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 129.8642 102.87 0)
+			(at 193.3642 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1217,9 +1093,9 @@
 			)
 		)
 	)
-	(global_label "ROW_5"
+	(global_label "COL_10"
 		(shape input)
-		(at 120.65 167.64 0)
+		(at 165.1 58.42 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1227,9 +1103,9 @@
 			)
 			(justify left)
 		)
-		(uuid "88e7e0ca-75a4-4d27-82c3-0e7c50ba7ec6")
+		(uuid "7cebe474-0663-4c6e-b062-052f668e61ed")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 129.8642 167.64 0)
+			(at 165.1 48.4196 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1241,9 +1117,9 @@
 			)
 		)
 	)
-	(global_label "ROW_1"
+	(global_label "COL_8"
 		(shape input)
-		(at 120.65 82.55 0)
+		(at 139.7 58.42 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1251,33 +1127,9 @@
 			)
 			(justify left)
 		)
-		(uuid "91516df1-b35d-491a-9057-f6e5c2360789")
+		(uuid "882dc6f2-c462-4444-a7f1-1519351162b9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 129.8642 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "ROW_4"
-		(shape input)
-		(at 120.65 146.05 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "960cc7cf-107f-41e1-a4fb-764b4f59f659")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 129.8642 146.05 0)
+			(at 139.7 49.6291 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1313,9 +1165,9 @@
 			)
 		)
 	)
-	(global_label "ROW_3"
+	(global_label "COL_9"
 		(shape input)
-		(at 120.65 124.46 0)
+		(at 152.4 58.42 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1323,9 +1175,33 @@
 			)
 			(justify left)
 		)
-		(uuid "c37f62e1-cf21-4852-9a79-792de1f41978")
+		(uuid "d62c9838-a8ab-4430-b65f-bd0c661f4651")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 129.8642 124.46 0)
+			(at 152.4 49.6291 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "ROW_2"
+		(shape input)
+		(at 184.15 102.87 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "deaeefdc-0d52-4b00-9e28-6c76507bf9fd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 193.3642 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1362,88 +1238,8 @@
 		)
 	)
 	(symbol
-		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 78.74 114.3 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "00de5d7f-e96e-4c93-aebd-762dd54690f0")
-		(property "Reference" "S13"
-			(at 78.74 106.68 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Keyswitch"
-			(at 78.74 109.22 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 78.74 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 78.74 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 78.74 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "627cecd7-31d6-41b3-9d90-e68b8f25cc2e")
-		)
-		(pin "1"
-			(uuid "36812ff0-f8bc-4565-8638-50832a45490c")
-		)
-		(instances
-			(project "steno"
-				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "S13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Diode:1N914")
-		(at 81.28 163.83 90)
+		(at 170.18 99.06 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1452,9 +1248,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "031ac1f3-f7e0-44d7-ace9-e3d2b614fff3")
-		(property "Reference" "D24"
-			(at 83.82 162.5599 90)
+		(uuid "04acabb2-8ccb-4e89-bec3-4ee29efd2026")
+		(property "Reference" "D21"
+			(at 172.72 97.7899 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1465,7 +1261,7 @@
 			)
 		)
 		(property "Value" "1N914"
-			(at 83.82 165.0999 90)
+			(at 172.72 100.3299 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1476,7 +1272,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 85.725 163.83 0)
+			(at 174.625 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1487,7 +1283,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.vishay.com/docs/85622/1n914.pdf"
-			(at 81.28 163.83 0)
+			(at 170.18 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1498,7 +1294,7 @@
 			)
 		)
 		(property "Description" "100V 0.3A Small Signal Fast Switching Diode, DO-35"
-			(at 81.28 163.83 0)
+			(at 170.18 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1509,7 +1305,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 81.28 163.83 0)
+			(at 170.18 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1520,7 +1316,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 81.28 163.83 0)
+			(at 170.18 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1531,119 +1327,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "368965d6-73b2-432c-8de3-e9c3ca799bca")
+			(uuid "a3785b5b-348a-4e2d-8aaf-fa9bead81ae2")
 		)
 		(pin "1"
-			(uuid "18d38542-d1bb-4e5c-9529-538a2841a7e3")
+			(uuid "eeeca2aa-709e-4af8-af05-85914b8640c9")
 		)
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "D24")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N914")
-		(at 68.58 142.24 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "03c3a53a-45c0-47a3-a1d7-fd88ef34db82")
-		(property "Reference" "D18"
-			(at 71.12 140.9699 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N914"
-			(at 71.12 143.5099 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 73.025 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "http://www.vishay.com/docs/85622/1n914.pdf"
-			(at 68.58 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "100V 0.3A Small Signal Fast Switching Diode, DO-35"
-			(at 68.58 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 68.58 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 68.58 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "37a94203-9b16-4f74-97dd-75993a8639b6")
-		)
-		(pin "1"
-			(uuid "fd78a2e1-8d19-4a87-85a3-6add67af3eca")
-		)
-		(instances
-			(project "steno"
-				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "D18")
+					(reference "D21")
 					(unit 1)
 				)
 			)
@@ -1681,7 +1373,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1V2_1.00u"
 			(at 53.34 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -1731,7 +1423,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 66.04 157.48 0)
+		(at 129.54 72.39 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1740,9 +1432,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "086931ba-5e3e-4069-b59d-05f3df845141")
-		(property "Reference" "S22"
-			(at 66.04 149.86 0)
+		(uuid "0b2ff72b-04f5-4987-8678-00f954a4b6c8")
+		(property "Reference" "S12"
+			(at 129.54 64.77 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1752,7 +1444,7 @@
 			)
 		)
 		(property "Value" "Keyswitch"
-			(at 66.04 152.4 0)
+			(at 129.54 67.31 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1761,8 +1453,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 66.04 157.48 0)
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1V2_1.00u"
+			(at 129.54 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1773,7 +1465,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 66.04 157.48 0)
+			(at 129.54 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1784,7 +1476,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 66.04 157.48 0)
+			(at 129.54 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1795,95 +1487,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "8dd2660b-0703-4f36-a486-3e34dac330c7")
+			(uuid "f1a6be2f-bd60-4c31-88e2-32890b3e2f9f")
 		)
 		(pin "1"
-			(uuid "046414ff-cd36-45db-8dae-7b4208b2c41b")
+			(uuid "26bb4b15-6918-4170-882e-a80a770cb341")
 		)
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "S22")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 91.44 114.3 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0b69e26f-dc4a-4ea3-8bb6-38dd1fccf8d2")
-		(property "Reference" "S14"
-			(at 91.44 106.68 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Keyswitch"
-			(at 91.44 109.22 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 91.44 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 91.44 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 91.44 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "81bb5195-7c3c-47d1-ae7d-643449aba786")
-		)
-		(pin "1"
-			(uuid "b4420bbc-2f9c-4876-996a-332f5b393739")
-		)
-		(instances
-			(project "steno"
-				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "S14")
+					(reference "S12")
 					(unit 1)
 				)
 			)
@@ -1995,7 +1607,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N914")
-		(at 55.88 163.83 90)
+		(at 144.78 99.06 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2004,9 +1616,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "0f666b92-42d7-4450-9165-2b2e617b1226")
-		(property "Reference" "D22"
-			(at 58.42 162.5599 90)
+		(uuid "13e9cca3-c2a2-4bfc-9954-840906b149e0")
+		(property "Reference" "D19"
+			(at 147.32 97.7899 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2017,7 +1629,7 @@
 			)
 		)
 		(property "Value" "1N914"
-			(at 58.42 165.0999 90)
+			(at 147.32 100.3299 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2028,7 +1640,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 60.325 163.83 0)
+			(at 149.225 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2039,7 +1651,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.vishay.com/docs/85622/1n914.pdf"
-			(at 55.88 163.83 0)
+			(at 144.78 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2050,7 +1662,7 @@
 			)
 		)
 		(property "Description" "100V 0.3A Small Signal Fast Switching Diode, DO-35"
-			(at 55.88 163.83 0)
+			(at 144.78 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2061,7 +1673,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 55.88 163.83 0)
+			(at 144.78 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2072,7 +1684,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 55.88 163.83 0)
+			(at 144.78 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2083,95 +1695,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "f04bdbf4-0ab6-4382-a743-798872756853")
+			(uuid "7ef6db6a-59c2-408b-8afb-23321f41dd18")
 		)
 		(pin "1"
-			(uuid "3f51c0e6-0dcb-4b91-97b3-1cc217dec550")
+			(uuid "17434a03-c2ab-49ae-9e5c-6e6a8c9ddc11")
 		)
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "D22")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 66.04 135.89 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "25efdc12-97a7-4e12-80ba-3fb9431387e8")
-		(property "Reference" "S17"
-			(at 66.04 128.27 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Keyswitch"
-			(at 66.04 130.81 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 66.04 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 66.04 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 66.04 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "99b73521-6ea4-4534-9cf4-b892b53c0d7c")
-		)
-		(pin "1"
-			(uuid "81ed7110-19bd-46ea-8d2a-9582a9f5167c")
-		)
-		(instances
-			(project "steno"
-				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "S17")
+					(reference "D19")
 					(unit 1)
 				)
 			)
@@ -2209,7 +1741,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1V2_1.00u"
 			(at 104.14 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -2258,110 +1790,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:1N914")
-		(at 106.68 120.65 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2d6f2d4c-4ee4-4aac-bc84-e6062be57346")
-		(property "Reference" "D16"
-			(at 109.22 119.3799 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N914"
-			(at 109.22 121.9199 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 111.125 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "http://www.vishay.com/docs/85622/1n914.pdf"
-			(at 106.68 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "100V 0.3A Small Signal Fast Switching Diode, DO-35"
-			(at 106.68 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 106.68 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 106.68 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "62244b1e-5e9f-45a3-86ff-afcf65b2e821")
-		)
-		(pin "1"
-			(uuid "db7fc13e-6236-453b-8ba4-7d38eb226b69")
-		)
-		(instances
-			(project "steno"
-				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "D16")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
 		(at 78.74 92.71 0)
 		(unit 1)
@@ -2393,7 +1821,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1V2_1.00u"
 			(at 78.74 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -2443,7 +1871,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 66.04 114.3 0)
+		(at 167.64 72.39 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2452,9 +1880,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "3c6ae1ad-a69b-40ae-9bfb-ab6a3e433ff6")
-		(property "Reference" "S12"
-			(at 66.04 106.68 0)
+		(uuid "37aeafaf-4e05-4e5c-8883-186810250394")
+		(property "Reference" "S15"
+			(at 167.64 64.77 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2464,7 +1892,7 @@
 			)
 		)
 		(property "Value" "Keyswitch"
-			(at 66.04 109.22 0)
+			(at 167.64 67.31 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2473,8 +1901,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 66.04 114.3 0)
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1V2_1.00u"
+			(at 167.64 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2485,7 +1913,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 66.04 114.3 0)
+			(at 167.64 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2496,7 +1924,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 66.04 114.3 0)
+			(at 167.64 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2507,15 +1935,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "75ff9654-6602-4985-bb04-a3c2a827917c")
+			(uuid "b58c8e3e-220c-4e35-9649-9f89cde7b048")
 		)
 		(pin "1"
-			(uuid "5d2d5ec1-ebe6-40a4-b35a-94e2557ff5bb")
+			(uuid "f1a62e55-190a-4137-87aa-a83f753959c3")
 		)
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "S12")
+					(reference "S15")
 					(unit 1)
 				)
 			)
@@ -2523,7 +1951,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 53.34 135.89 0)
+		(at 142.24 72.39 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2532,9 +1960,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "3ca9905f-c853-4521-b418-85ed7bb25309")
-		(property "Reference" "S16"
-			(at 53.34 128.27 0)
+		(uuid "47f3d816-3336-467b-b3b0-7f0af88f076a")
+		(property "Reference" "S13"
+			(at 142.24 64.77 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2544,7 +1972,7 @@
 			)
 		)
 		(property "Value" "Keyswitch"
-			(at 53.34 130.81 0)
+			(at 142.24 67.31 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2553,8 +1981,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 53.34 135.89 0)
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1V2_1.00u"
+			(at 142.24 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2565,7 +1993,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 53.34 135.89 0)
+			(at 142.24 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2576,7 +2004,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 53.34 135.89 0)
+			(at 142.24 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2587,15 +2015,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "fcab9053-5aba-4c22-ab2c-3e3c4f951ef0")
+			(uuid "354d4f07-58b7-46dc-9166-9f07dd5677e2")
 		)
 		(pin "1"
-			(uuid "8297c4ac-74f4-4955-a252-ff52f63f1dd2")
+			(uuid "f1151de0-5e72-410c-b106-a6df9944964c")
 		)
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "S16")
+					(reference "S13")
 					(unit 1)
 				)
 			)
@@ -2603,7 +2031,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 53.34 114.3 0)
+		(at 129.54 92.71 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2612,9 +2040,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "44e06589-64b2-4f82-98e9-caea1f6beaa9")
-		(property "Reference" "S11"
-			(at 53.34 106.68 0)
+		(uuid "484fa36a-f4cc-40dc-aa3a-a5d76f14b743")
+		(property "Reference" "S17"
+			(at 129.54 85.09 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2624,7 +2052,7 @@
 			)
 		)
 		(property "Value" "Keyswitch"
-			(at 53.34 109.22 0)
+			(at 129.54 87.63 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2633,8 +2061,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 53.34 114.3 0)
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1V2_1.00u"
+			(at 129.54 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2645,7 +2073,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 53.34 114.3 0)
+			(at 129.54 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2656,7 +2084,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 53.34 114.3 0)
+			(at 129.54 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2667,15 +2095,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "7f3ecdd0-c219-4278-a519-08223256143f")
+			(uuid "29a11dbf-7891-4d3a-ab5a-a23a43018005")
 		)
 		(pin "1"
-			(uuid "c30bc1e1-0ba5-4657-bfd6-f38f696068bc")
+			(uuid "d6718363-595d-4e3c-baa7-82e04d78c949")
 		)
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "S11")
+					(reference "S17")
 					(unit 1)
 				)
 			)
@@ -2683,7 +2111,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 91.44 157.48 0)
+		(at 142.24 92.71 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2692,9 +2120,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "4c5bbb37-8871-40d6-bf6d-ba1475859db6")
-		(property "Reference" "S24"
-			(at 91.44 149.86 0)
+		(uuid "4861c1f5-458a-4076-9460-cdb4462d4212")
+		(property "Reference" "S18"
+			(at 142.24 85.09 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2704,7 +2132,7 @@
 			)
 		)
 		(property "Value" "Keyswitch"
-			(at 91.44 152.4 0)
+			(at 142.24 87.63 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2713,8 +2141,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 91.44 157.48 0)
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1V2_1.00u"
+			(at 142.24 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2725,7 +2153,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 91.44 157.48 0)
+			(at 142.24 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2736,7 +2164,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 91.44 157.48 0)
+			(at 142.24 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2747,15 +2175,119 @@
 			)
 		)
 		(pin "2"
-			(uuid "1f8cdd22-e0b3-4768-a020-21fb066bd3ca")
+			(uuid "1cbd673b-9e14-4920-88ea-7befb39515e0")
 		)
 		(pin "1"
-			(uuid "64f197dd-9f8f-4825-bed3-aad0dcf4547c")
+			(uuid "4f18c76e-f61e-4d66-b273-a06ab18c6b89")
 		)
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "S24")
+					(reference "S18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N914")
+		(at 132.08 78.74 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4c50d7be-05d8-4e9f-a453-8b1edbde6aba")
+		(property "Reference" "D13"
+			(at 134.62 77.4699 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N914"
+			(at 134.62 80.0099 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 136.525 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "http://www.vishay.com/docs/85622/1n914.pdf"
+			(at 132.08 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "100V 0.3A Small Signal Fast Switching Diode, DO-35"
+			(at 132.08 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 132.08 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 132.08 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "37df96b2-48ea-443a-8534-018dd6722346")
+		)
+		(pin "1"
+			(uuid "d03cd7e5-88eb-41ab-bec4-8122da027cba")
+		)
+		(instances
+			(project "steno"
+				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
+					(reference "D13")
 					(unit 1)
 				)
 			)
@@ -2793,7 +2325,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1V2_1.00u"
 			(at 78.74 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -2946,8 +2478,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:1N914")
-		(at 93.98 163.83 90)
+		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
+		(at 116.84 92.71 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2956,31 +2488,29 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "51aa2af1-16c1-4597-95f3-1591d881d6de")
-		(property "Reference" "D25"
-			(at 96.52 162.5599 90)
+		(uuid "516b6459-0872-44fc-964d-4dc37eb3e90d")
+		(property "Reference" "S16"
+			(at 116.84 85.09 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
-		(property "Value" "1N914"
-			(at 96.52 165.0999 90)
+		(property "Value" "Keyswitch"
+			(at 116.84 87.63 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 98.425 163.83 0)
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1V2_1.00u"
+			(at 116.84 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2990,8 +2520,8 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.vishay.com/docs/85622/1n914.pdf"
-			(at 93.98 163.83 0)
+		(property "Datasheet" ""
+			(at 116.84 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3001,30 +2531,8 @@
 				)
 			)
 		)
-		(property "Description" "100V 0.3A Small Signal Fast Switching Diode, DO-35"
-			(at 93.98 163.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 93.98 163.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 93.98 163.83 0)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 116.84 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3035,15 +2543,119 @@
 			)
 		)
 		(pin "2"
-			(uuid "caa45595-2677-46de-80b2-a6fbc3a7c749")
+			(uuid "eb40fbba-2060-438e-a3fd-a889d41f1e3a")
 		)
 		(pin "1"
-			(uuid "a55f1bf7-6c0d-4137-ac1e-298c5e518b5f")
+			(uuid "574eec61-938d-415b-8b50-75830e240602")
 		)
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "D25")
+					(reference "S16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N914")
+		(at 157.48 78.74 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5307383f-60f5-4d91-ad0b-adc8490e4ae5")
+		(property "Reference" "D15"
+			(at 160.02 77.4699 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N914"
+			(at 160.02 80.0099 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 161.925 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "http://www.vishay.com/docs/85622/1n914.pdf"
+			(at 157.48 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "100V 0.3A Small Signal Fast Switching Diode, DO-35"
+			(at 157.48 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 157.48 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 157.48 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "a0011c04-7217-44e0-92ee-21b207dde655")
+		)
+		(pin "1"
+			(uuid "efb8afb3-6518-4bbd-a358-ce43dab36dfe")
+		)
+		(instances
+			(project "steno"
+				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
+					(reference "D15")
 					(unit 1)
 				)
 			)
@@ -3081,7 +2693,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1V2_1.00u"
 			(at 53.34 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -3124,294 +2736,6 @@
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
 					(reference "S6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 78.74 135.89 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5b5a487b-abde-4bbd-bfef-ae6b25818b3a")
-		(property "Reference" "S18"
-			(at 78.74 128.27 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Keyswitch"
-			(at 78.74 130.81 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 78.74 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 78.74 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 78.74 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "84669f0d-6cd5-4a1d-8f95-80eb62d3084b")
-		)
-		(pin "1"
-			(uuid "3df9f92f-64e1-49ab-8115-cd6d9aef1afe")
-		)
-		(instances
-			(project "steno"
-				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "S18")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N914")
-		(at 93.98 142.24 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5c4f3a15-1839-46cd-8358-46bcb380f1a6")
-		(property "Reference" "D20"
-			(at 96.52 140.9699 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N914"
-			(at 96.52 143.5099 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 98.425 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "http://www.vishay.com/docs/85622/1n914.pdf"
-			(at 93.98 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "100V 0.3A Small Signal Fast Switching Diode, DO-35"
-			(at 93.98 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 93.98 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 93.98 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "4f1dfdf6-e6cf-4929-a71e-541e293fb778")
-		)
-		(pin "1"
-			(uuid "8baa8705-5374-47ee-b04c-2bbf1dcf7898")
-		)
-		(instances
-			(project "steno"
-				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "D20")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N914")
-		(at 55.88 142.24 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5d767545-c7b4-4896-be9b-be0f29ed0a3d")
-		(property "Reference" "D17"
-			(at 58.42 140.9699 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N914"
-			(at 58.42 143.5099 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 60.325 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "http://www.vishay.com/docs/85622/1n914.pdf"
-			(at 55.88 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "100V 0.3A Small Signal Fast Switching Diode, DO-35"
-			(at 55.88 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 55.88 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 55.88 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "a2df9732-6e80-4f4f-b031-46cef719431e")
-		)
-		(pin "1"
-			(uuid "363a72ef-580d-45c8-96dc-d9eaaa43e00b")
-		)
-		(instances
-			(project "steno"
-				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "D17")
 					(unit 1)
 				)
 			)
@@ -3516,6 +2840,86 @@
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
 					(reference "D4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
+		(at 116.84 72.39 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6385af65-58ac-49d3-afbf-213f42fe4f16")
+		(property "Reference" "S11"
+			(at 116.84 64.77 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Keyswitch"
+			(at 116.84 67.31 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1V2_1.00u"
+			(at 116.84 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 116.84 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 116.84 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "2e766bbf-2f80-4df4-985b-a795f2e882c2")
+		)
+		(pin "1"
+			(uuid "ba7097c7-404c-495a-aeb5-ad61e9474122")
+		)
+		(instances
+			(project "steno"
+				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
+					(reference "S11")
 					(unit 1)
 				)
 			)
@@ -3627,7 +3031,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N914")
-		(at 68.58 120.65 90)
+		(at 157.48 99.06 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3636,9 +3040,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "6b00a497-bca1-470d-acfc-c859bc9f49b0")
-		(property "Reference" "D13"
-			(at 71.12 119.3799 90)
+		(uuid "73c4d665-8b2b-415d-9fb9-2bf75eaf9dbd")
+		(property "Reference" "D20"
+			(at 160.02 97.7899 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3649,7 +3053,7 @@
 			)
 		)
 		(property "Value" "1N914"
-			(at 71.12 121.9199 90)
+			(at 160.02 100.3299 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3660,7 +3064,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 73.025 120.65 0)
+			(at 161.925 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3671,7 +3075,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.vishay.com/docs/85622/1n914.pdf"
-			(at 68.58 120.65 0)
+			(at 157.48 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3682,7 +3086,7 @@
 			)
 		)
 		(property "Description" "100V 0.3A Small Signal Fast Switching Diode, DO-35"
-			(at 68.58 120.65 0)
+			(at 157.48 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3693,7 +3097,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 68.58 120.65 0)
+			(at 157.48 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3704,7 +3108,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 68.58 120.65 0)
+			(at 157.48 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3715,15 +3119,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "5cdf9b03-65ee-45ca-9de2-78a44beb7328")
+			(uuid "8770d10f-121d-4803-8749-4c35db7dba9e")
 		)
 		(pin "1"
-			(uuid "c503ccf3-c710-4695-8040-b02d3dd56673")
+			(uuid "9df4444e-77d0-4252-ba66-2ceae4ac2350")
 		)
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "D13")
+					(reference "D20")
 					(unit 1)
 				)
 			)
@@ -3834,8 +3238,8 @@
 		)
 	)
 	(symbol
-		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 78.74 157.48 0)
+		(lib_id "Diode:1N914")
+		(at 132.08 99.06 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3844,29 +3248,31 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "847a80b2-07ee-4510-b22c-af2145f60589")
-		(property "Reference" "S23"
-			(at 78.74 149.86 0)
+		(uuid "7be141e6-e7cf-4f85-8451-2e9adae4f419")
+		(property "Reference" "D18"
+			(at 134.62 97.7899 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
-		(property "Value" "Keyswitch"
-			(at 78.74 152.4 0)
+		(property "Value" "1N914"
+			(at 134.62 100.3299 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 78.74 157.48 0)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 136.525 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3876,8 +3282,8 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
-			(at 78.74 157.48 0)
+		(property "Datasheet" "http://www.vishay.com/docs/85622/1n914.pdf"
+			(at 132.08 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3887,8 +3293,30 @@
 				)
 			)
 		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 78.74 157.48 0)
+		(property "Description" "100V 0.3A Small Signal Fast Switching Diode, DO-35"
+			(at 132.08 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 132.08 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 132.08 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3899,15 +3327,119 @@
 			)
 		)
 		(pin "2"
-			(uuid "e24776f8-c00e-4659-8875-c55efdf4ab12")
+			(uuid "2a4a8f01-f26e-4c67-a186-28ba05f8344c")
 		)
 		(pin "1"
-			(uuid "46ca6b73-372e-4047-aa61-b4b3b34b00bc")
+			(uuid "df7b2d28-ad0a-4985-be19-d60979770a84")
 		)
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "S23")
+					(reference "D18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N914")
+		(at 119.38 99.06 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "846f7a12-099d-46dc-bfc3-f91f515bd379")
+		(property "Reference" "D17"
+			(at 121.92 97.7899 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N914"
+			(at 121.92 100.3299 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 123.825 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "http://www.vishay.com/docs/85622/1n914.pdf"
+			(at 119.38 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "100V 0.3A Small Signal Fast Switching Diode, DO-35"
+			(at 119.38 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 119.38 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 119.38 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "50d2c368-ea21-40cf-a4f9-1bd352cc3c1e")
+		)
+		(pin "1"
+			(uuid "a1e98baf-5bb7-43ea-a325-d161b9cad94e")
+		)
+		(instances
+			(project "steno"
+				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
+					(reference "D17")
 					(unit 1)
 				)
 			)
@@ -3915,7 +3447,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 53.34 157.48 0)
+		(at 154.94 92.71 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3924,9 +3456,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "85ea8cf6-a340-4441-ab1c-d4cf92afa484")
-		(property "Reference" "S21"
-			(at 53.34 149.86 0)
+		(uuid "8c318880-ec3d-41e8-83d9-926eff4d1a03")
+		(property "Reference" "S19"
+			(at 154.94 85.09 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3936,7 +3468,7 @@
 			)
 		)
 		(property "Value" "Keyswitch"
-			(at 53.34 152.4 0)
+			(at 154.94 87.63 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3945,8 +3477,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 53.34 157.48 0)
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1V2_1.00u"
+			(at 154.94 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3957,7 +3489,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 53.34 157.48 0)
+			(at 154.94 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3968,7 +3500,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 53.34 157.48 0)
+			(at 154.94 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3979,15 +3511,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "d9a7938f-1425-4f30-b396-c49a312ff3b4")
+			(uuid "985562ae-e34c-48cf-9c8d-3859d95b2dbd")
 		)
 		(pin "1"
-			(uuid "91402942-3fab-4086-a1ef-10e01cceb567")
+			(uuid "e8239c0e-b4ac-4a5f-a0fe-bfcda4162a57")
 		)
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "S21")
+					(reference "S19")
 					(unit 1)
 				)
 			)
@@ -4025,7 +3557,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1V2_1.00u"
 			(at 104.14 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -4075,7 +3607,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 104.14 157.48 0)
+		(at 154.94 72.39 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4084,9 +3616,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "8f8f8129-aa1c-4b70-8a47-8c3a31617e54")
-		(property "Reference" "S25"
-			(at 104.14 149.86 0)
+		(uuid "8fe8dfc0-2d82-4bcc-811b-17bb14c3cc0b")
+		(property "Reference" "S14"
+			(at 154.94 64.77 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4096,7 +3628,7 @@
 			)
 		)
 		(property "Value" "Keyswitch"
-			(at 104.14 152.4 0)
+			(at 154.94 67.31 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4105,8 +3637,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 104.14 157.48 0)
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1V2_1.00u"
+			(at 154.94 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4117,7 +3649,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 104.14 157.48 0)
+			(at 154.94 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4128,7 +3660,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 104.14 157.48 0)
+			(at 154.94 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4139,15 +3671,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "441421a4-6b83-48ef-bcde-b77a31dec433")
+			(uuid "9dfc5b8e-7c70-434a-9ed9-09c5fb1fafe4")
 		)
 		(pin "1"
-			(uuid "84294729-d488-44e1-a3b6-a1883fa369f8")
+			(uuid "61e974d3-c48a-4712-9e34-c2cb48577af7")
 		)
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "S25")
+					(reference "S14")
 					(unit 1)
 				)
 			)
@@ -4267,7 +3799,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "97e77454-b161-4795-bd18-99aed033d4b3")
 		(property "Reference" "D11"
 			(at 109.22 97.7899 90)
@@ -4363,86 +3894,6 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 104.14 114.3 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9814b0a2-cb5b-458c-815d-90b6c1a03d53")
-		(property "Reference" "S15"
-			(at 104.14 106.68 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Keyswitch"
-			(at 104.14 109.22 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 104.14 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 104.14 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 104.14 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "472d15cf-215c-49c6-a27e-594ef1c46960")
-		)
-		(pin "1"
-			(uuid "783ca373-5461-43f1-9e7a-b8b9d49d1fe5")
-		)
-		(instances
-			(project "steno"
-				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "S15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
 		(at 66.04 72.39 0)
 		(unit 1)
 		(body_style 1)
@@ -4473,7 +3924,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1V2_1.00u"
 			(at 66.04 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -4522,8 +3973,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:1N914")
-		(at 55.88 120.65 90)
+		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
+		(at 167.64 92.71 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4532,31 +3983,29 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "a88f501e-4f26-431f-a6e6-8bc22a0aee54")
-		(property "Reference" "D12"
-			(at 58.42 119.3799 90)
+		(uuid "a961ad7c-b1dc-4df7-9c66-2bd7a2aec49e")
+		(property "Reference" "S20"
+			(at 167.64 85.09 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
-		(property "Value" "1N914"
-			(at 58.42 121.9199 90)
+		(property "Value" "Keyswitch"
+			(at 167.64 87.63 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 60.325 120.65 0)
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1V2_1.00u"
+			(at 167.64 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4566,8 +4015,8 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.vishay.com/docs/85622/1n914.pdf"
-			(at 55.88 120.65 0)
+		(property "Datasheet" ""
+			(at 167.64 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4577,30 +4026,8 @@
 				)
 			)
 		)
-		(property "Description" "100V 0.3A Small Signal Fast Switching Diode, DO-35"
-			(at 55.88 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 55.88 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 55.88 120.65 0)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 167.64 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4611,15 +4038,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "cd48283d-f4be-4cc2-93f7-bb9809b1779b")
+			(uuid "7c668a0e-d8a5-4319-91f7-c5c3d3c6bd19")
 		)
 		(pin "1"
-			(uuid "59182d10-c3be-4961-8fd1-8b7f56cfc76b")
+			(uuid "3e343673-dd38-4513-b962-91551851083a")
 		)
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "D12")
+					(reference "S20")
 					(unit 1)
 				)
 			)
@@ -4731,7 +4158,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N914")
-		(at 93.98 120.65 90)
+		(at 144.78 78.74 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4740,9 +4167,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "b23ef94c-72ce-495f-9479-eccc2be700b1")
-		(property "Reference" "D15"
-			(at 96.52 119.3799 90)
+		(uuid "b0e24c6e-0592-4866-9c9d-e2b2fa04cf5c")
+		(property "Reference" "D14"
+			(at 147.32 77.4699 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4753,7 +4180,7 @@
 			)
 		)
 		(property "Value" "1N914"
-			(at 96.52 121.9199 90)
+			(at 147.32 80.0099 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4764,7 +4191,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 98.425 120.65 0)
+			(at 149.225 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4775,7 +4202,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.vishay.com/docs/85622/1n914.pdf"
-			(at 93.98 120.65 0)
+			(at 144.78 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4786,7 +4213,7 @@
 			)
 		)
 		(property "Description" "100V 0.3A Small Signal Fast Switching Diode, DO-35"
-			(at 93.98 120.65 0)
+			(at 144.78 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4797,7 +4224,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 93.98 120.65 0)
+			(at 144.78 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4808,7 +4235,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 93.98 120.65 0)
+			(at 144.78 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4819,15 +4246,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "578589e6-212a-4a99-815b-e6f90b320890")
+			(uuid "bb17d6b1-45c0-45fc-858f-3715f5f08854")
 		)
 		(pin "1"
-			(uuid "6fd177ef-bb20-4803-9692-b20f94443266")
+			(uuid "0f1f7636-9ce8-4f4f-8d5f-208d4804bf3e")
 		)
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "D15")
+					(reference "D14")
 					(unit 1)
 				)
 			)
@@ -4939,6 +4366,214 @@
 	)
 	(symbol
 		(lib_id "Diode:1N914")
+		(at 170.18 78.74 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b4ee626a-53e4-4104-8a0a-8ca67d3ebd7c")
+		(property "Reference" "D16"
+			(at 172.72 77.4699 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N914"
+			(at 172.72 80.0099 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 174.625 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "http://www.vishay.com/docs/85622/1n914.pdf"
+			(at 170.18 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "100V 0.3A Small Signal Fast Switching Diode, DO-35"
+			(at 170.18 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 170.18 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 170.18 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "b03eb779-ca39-4cc5-9ea3-221b9959e5a4")
+		)
+		(pin "1"
+			(uuid "7f859f97-5af2-4f1e-8692-333c94c295f6")
+		)
+		(instances
+			(project "steno"
+				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
+					(reference "D16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N914")
+		(at 119.38 78.74 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b7b788a7-496a-4130-a815-8e59a122caa9")
+		(property "Reference" "D12"
+			(at 121.92 77.4699 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N914"
+			(at 121.92 80.0099 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 123.825 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "http://www.vishay.com/docs/85622/1n914.pdf"
+			(at 119.38 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "100V 0.3A Small Signal Fast Switching Diode, DO-35"
+			(at 119.38 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 119.38 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 119.38 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "1734f70f-75c1-49e3-876a-080b251500ff")
+		)
+		(pin "1"
+			(uuid "574b38d5-d2de-4502-a962-e5742e7e3061")
+		)
+		(instances
+			(project "steno"
+				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
+					(reference "D12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N914")
 		(at 93.98 99.06 90)
 		(unit 1)
 		(body_style 1)
@@ -5042,110 +4677,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:1N914")
-		(at 68.58 163.83 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c5bd143b-ad82-4b42-b72e-49c5a36c5b35")
-		(property "Reference" "D23"
-			(at 71.12 162.5599 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N914"
-			(at 71.12 165.0999 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 73.025 163.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "http://www.vishay.com/docs/85622/1n914.pdf"
-			(at 68.58 163.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "100V 0.3A Small Signal Fast Switching Diode, DO-35"
-			(at 68.58 163.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 68.58 163.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 68.58 163.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "11d8a55b-d04a-4010-998f-ead5e9900846")
-		)
-		(pin "1"
-			(uuid "b2dede8e-5a06-46ab-a763-b1ec3809b235")
-		)
-		(instances
-			(project "steno"
-				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "D23")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
 		(at 66.04 92.71 0)
 		(unit 1)
@@ -5177,7 +4708,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1V2_1.00u"
 			(at 66.04 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -5257,7 +4788,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1V2_1.00u"
 			(at 91.44 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -5306,478 +4837,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:1N914")
-		(at 81.28 142.24 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "da44ab24-8c0c-4060-8bee-83897aae8e50")
-		(property "Reference" "D19"
-			(at 83.82 140.9699 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N914"
-			(at 83.82 143.5099 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 85.725 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "http://www.vishay.com/docs/85622/1n914.pdf"
-			(at 81.28 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "100V 0.3A Small Signal Fast Switching Diode, DO-35"
-			(at 81.28 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 81.28 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 81.28 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "d6765810-185a-425a-b36a-bfcebbeec080")
-		)
-		(pin "1"
-			(uuid "59d0597a-3e04-4702-81cd-ab24fcdbe5c3")
-		)
-		(instances
-			(project "steno"
-				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "D19")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N914")
-		(at 106.68 142.24 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e0387221-476b-4c4f-ae4a-eb47801449c4")
-		(property "Reference" "D21"
-			(at 109.22 140.9699 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N914"
-			(at 109.22 143.5099 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 111.125 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "http://www.vishay.com/docs/85622/1n914.pdf"
-			(at 106.68 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "100V 0.3A Small Signal Fast Switching Diode, DO-35"
-			(at 106.68 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 106.68 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 106.68 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "601166e1-9368-455f-a87e-a507fa0533d0")
-		)
-		(pin "1"
-			(uuid "fad496b3-a2de-4346-bcc0-d2e0c5541ef3")
-		)
-		(instances
-			(project "steno"
-				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "D21")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 104.14 135.89 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f14c4f7d-3e1c-46a0-aef7-790e2b370186")
-		(property "Reference" "S20"
-			(at 104.14 128.27 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Keyswitch"
-			(at 104.14 130.81 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 104.14 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 104.14 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 104.14 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "ccc57186-10f2-42cd-ba9c-86e7d5b5689d")
-		)
-		(pin "1"
-			(uuid "960c3b83-2635-4938-b129-00f78ab954f0")
-		)
-		(instances
-			(project "steno"
-				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "S20")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 91.44 135.89 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f8821e09-1738-4ab1-9b9d-cf2f4c76e235")
-		(property "Reference" "S19"
-			(at 91.44 128.27 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Keyswitch"
-			(at 91.44 130.81 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 91.44 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 91.44 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 91.44 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "cd5c652f-3b04-4aaa-9679-9c3dfff9d0af")
-		)
-		(pin "1"
-			(uuid "19e3102d-739b-49e1-8c2e-d6bc77140936")
-		)
-		(instances
-			(project "steno"
-				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "S19")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N914")
-		(at 106.68 163.83 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f9c9d5d7-c130-437a-a369-753c92056c12")
-		(property "Reference" "D26"
-			(at 109.22 162.5599 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N914"
-			(at 109.22 165.0999 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 111.125 163.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "http://www.vishay.com/docs/85622/1n914.pdf"
-			(at 106.68 163.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "100V 0.3A Small Signal Fast Switching Diode, DO-35"
-			(at 106.68 163.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 106.68 163.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 106.68 163.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "59bae7fc-ef7c-4348-a9c6-3b7de85f03e1")
-		)
-		(pin "1"
-			(uuid "5be1fb8c-f011-49b7-aa96-5cf228390a5d")
-		)
-		(instances
-			(project "steno"
-				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "D26")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
 		(at 91.44 92.71 0)
 		(unit 1)
@@ -5809,7 +4868,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1V2_1.00u"
 			(at 91.44 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -5852,110 +4911,6 @@
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
 					(reference "S9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N914")
-		(at 81.28 120.65 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "feef9e85-f0cd-4256-ab01-42a3386131e3")
-		(property "Reference" "D14"
-			(at 83.82 119.3799 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N914"
-			(at 83.82 121.9199 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 85.725 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "http://www.vishay.com/docs/85622/1n914.pdf"
-			(at 81.28 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "100V 0.3A Small Signal Fast Switching Diode, DO-35"
-			(at 81.28 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 81.28 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 81.28 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "8b6d7be5-a25a-441f-9bc8-6a4e2c4d809d")
-		)
-		(pin "1"
-			(uuid "32cc55e2-e4de-4914-a2a9-707bf6a1ad08")
-		)
-		(instances
-			(project "steno"
-				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "D14")
 					(unit 1)
 				)
 			)
