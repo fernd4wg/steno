@@ -2130,7 +2130,7 @@
 	)
 	(polyline
 		(pts
-			(xy 116.84 12.065) (xy 115.57 76.2)
+			(xy 117.475 12.065) (xy 117.475 76.2)
 		)
 		(stroke
 			(width 0)
@@ -2210,7 +2210,7 @@
 	)
 	(polyline
 		(pts
-			(xy 12.065 76.2) (xy 115.57 76.2)
+			(xy 12.065 76.2) (xy 117.475 76.2)
 		)
 		(stroke
 			(width 0)
@@ -2297,6 +2297,16 @@
 			(type default)
 		)
 		(uuid "9f8a12f9-3acc-403d-b0d4-ce697edece7e")
+	)
+	(polyline
+		(pts
+			(xy 115.57 140.335) (xy 117.475 140.335)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ad39dd55-f666-4aa8-a4e9-4ec55016d85b")
 	)
 	(wire
 		(pts
@@ -2400,7 +2410,7 @@
 	)
 	(polyline
 		(pts
-			(xy 115.57 140.335) (xy 115.57 76.2)
+			(xy 117.475 140.335) (xy 117.475 76.2)
 		)
 		(stroke
 			(width 0)
@@ -2739,7 +2749,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-1608-08_AVX-J_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 110.1852 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -2818,7 +2828,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 51.054 25.654 90)
 			(hide yes)
 			(show_name no)
@@ -2897,7 +2907,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-1608-08_AVX-J_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 72.0852 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -2976,7 +2986,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-1608-08_AVX-J_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 101.2952 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -3055,7 +3065,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-1608-08_AVX-J_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 80.9752 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -3212,7 +3222,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 57.404 40.894 90)
 			(hide yes)
 			(show_name no)
@@ -3291,7 +3301,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 51.054 28.194 90)
 			(hide yes)
 			(show_name no)
@@ -3855,7 +3865,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 21.59 67.31 0)
+		(at 21.59 59.69 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3866,7 +3876,7 @@
 		(fields_autoplaced yes)
 		(uuid "76ddbd55-9090-4655-ad28-4771db0c6403")
 		(property "Reference" "#PWR011"
-			(at 21.59 73.66 0)
+			(at 21.59 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3877,7 +3887,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 21.59 72.39 0)
+			(at 21.59 64.77 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3887,7 +3897,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 21.59 67.31 0)
+			(at 21.59 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3898,7 +3908,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 21.59 67.31 0)
+			(at 21.59 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3909,7 +3919,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 21.59 67.31 0)
+			(at 21.59 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3965,7 +3975,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 46.736 99.314 90)
 			(hide yes)
 			(show_name no)
@@ -4044,7 +4054,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 57.404 35.814 90)
 			(hide yes)
 			(show_name no)
@@ -4286,7 +4296,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-1608-08_AVX-J_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 73.3552 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -4366,7 +4376,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
+		(property "Footprint" "ScottoKeebs_Components:Button_MJTP1243"
 			(at 36.83 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -4409,87 +4419,6 @@
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631"
 					(reference "SW1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 21.59 63.5 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "baeba883-bbcc-49d5-9e16-57e82c0bf584")
-		(property "Reference" "C4"
-			(at 13.716 62.484 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100pF"
-			(at 12.446 64.77 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-1608-08_AVX-J_HandSolder"
-			(at 22.5552 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 21.59 63.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 21.59 63.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "1852d99f-e4cb-43ae-9bf5-f5161c235857")
-		)
-		(pin "2"
-			(uuid "61982c85-615f-4e76-94bf-15da1226667e")
-		)
-		(instances
-			(project "steno"
-				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631"
-					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -4762,7 +4691,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-1608-08_AVX-J_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 89.8652 101.6 0)
 			(hide yes)
 			(show_name no)
