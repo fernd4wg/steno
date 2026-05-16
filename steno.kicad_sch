@@ -4356,7 +4356,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b838a917-a860-4ffd-bb9b-3519cef1150e")
-		(property "Reference" "SW1"
+		(property "Reference" "BOOTSEL1"
 			(at 36.83 85.09 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4418,7 +4418,7 @@
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631"
-					(reference "SW1")
+					(reference "BOOTSEL1")
 					(unit 1)
 				)
 			)
