@@ -1501,7 +1501,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "15c12d96-0b3a-42d8-a54a-766a06b991f9")
-		(property "Reference" "D16"
+		(property "Reference" "D23"
 			(at 90.17 83.8199 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1587,7 +1587,7 @@
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "D16")
+					(reference "D23")
 					(unit 1)
 				)
 			)
@@ -1605,7 +1605,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "19b6a5fb-49da-4952-a3e4-16fef7fe28cc")
-		(property "Reference" "D7"
+		(property "Reference" "D3"
 			(at 39.37 64.7699 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1691,7 +1691,7 @@
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "D7")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -1709,7 +1709,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "29331d58-30af-4e79-b598-a7f19ccd503b")
-		(property "Reference" "D10"
+		(property "Reference" "D17"
 			(at 77.47 64.7699 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1795,7 +1795,7 @@
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "D10")
+					(reference "D17")
 					(unit 1)
 				)
 			)
@@ -1813,7 +1813,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "29576025-a0b3-4d5b-b633-2624acbb6139")
-		(property "Reference" "D20"
+		(property "Reference" "D19"
 			(at 77.47 102.8699 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1899,7 +1899,7 @@
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "D20")
+					(reference "D19")
 					(unit 1)
 				)
 			)
@@ -1997,7 +1997,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3a4f1a57-5c09-492d-a939-3188c3f245ce")
-		(property "Reference" "D13"
+		(property "Reference" "D8"
 			(at 52.07 83.8199 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2083,7 +2083,7 @@
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "D13")
+					(reference "D8")
 					(unit 1)
 				)
 			)
@@ -2261,7 +2261,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3f61826d-9a5d-44b5-88e1-db1a2ac51056")
-		(property "Reference" "D18"
+		(property "Reference" "D9"
 			(at 52.07 102.8699 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2347,7 +2347,7 @@
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "D18")
+					(reference "D9")
 					(unit 1)
 				)
 			)
@@ -2445,7 +2445,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "471e333a-acd6-457a-b1a6-327f853c448d")
-		(property "Reference" "D3"
+		(property "Reference" "D6"
 			(at 52.07 45.7199 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2531,7 +2531,7 @@
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "D3")
+					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -2629,7 +2629,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "58169170-eacb-493a-946c-f8c62f48818f")
-		(property "Reference" "D17"
+		(property "Reference" "D5"
 			(at 39.37 102.8699 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2715,7 +2715,7 @@
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "D17")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -2973,7 +2973,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "668e0283-996a-4b10-9a3e-cdd02c113f1a")
-		(property "Reference" "D15"
+		(property "Reference" "D18"
 			(at 77.47 83.8199 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3059,7 +3059,7 @@
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "D15")
+					(reference "D18")
 					(unit 1)
 				)
 			)
@@ -3077,7 +3077,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6869fc98-e3bc-419b-bf08-911bd4c07c5c")
-		(property "Reference" "D5"
+		(property "Reference" "D16"
 			(at 77.47 45.7199 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3163,7 +3163,7 @@
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "D5")
+					(reference "D16")
 					(unit 1)
 				)
 			)
@@ -3341,7 +3341,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6f41d630-55f0-46c1-abae-7ac35226d40a")
-		(property "Reference" "D19"
+		(property "Reference" "D14"
 			(at 64.77 102.8699 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3427,7 +3427,7 @@
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "D19")
+					(reference "D14")
 					(unit 1)
 				)
 			)
@@ -3445,7 +3445,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "73efec4b-d153-4086-8e21-a9526f289424")
-		(property "Reference" "D12"
+		(property "Reference" "D4"
 			(at 39.37 83.8199 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3531,7 +3531,7 @@
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "D12")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -3869,7 +3869,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8c6c1834-358b-4adb-8694-6797d63856ce")
-		(property "Reference" "D4"
+		(property "Reference" "D11"
 			(at 64.77 45.7199 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3955,7 +3955,7 @@
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "D4")
+					(reference "D11")
 					(unit 1)
 				)
 			)
@@ -4053,7 +4053,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9010c021-9aa9-4616-a318-9c0f96ddb8a4")
-		(property "Reference" "D14"
+		(property "Reference" "D13"
 			(at 64.77 83.8199 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4139,7 +4139,7 @@
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "D14")
+					(reference "D13")
 					(unit 1)
 				)
 			)
@@ -4396,7 +4396,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a99a80dc-468f-40c0-9da1-e29009bfab79")
-		(property "Reference" "D11"
+		(property "Reference" "D22"
 			(at 90.17 64.7699 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4482,7 +4482,7 @@
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "D11")
+					(reference "D22")
 					(unit 1)
 				)
 			)
@@ -4500,7 +4500,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b436d60d-0d18-4d7e-a295-a8c0e6e956f7")
-		(property "Reference" "D22"
+		(property "Reference" "D20"
 			(at 77.47 121.9199 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4586,7 +4586,7 @@
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "D22")
+					(reference "D20")
 					(unit 1)
 				)
 			)
@@ -4684,7 +4684,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b98cabfb-fb68-4e82-b0d9-8858c1e892dd")
-		(property "Reference" "D21"
+		(property "Reference" "D24"
 			(at 90.17 102.8699 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4770,7 +4770,7 @@
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "D21")
+					(reference "D24")
 					(unit 1)
 				)
 			)
@@ -4892,7 +4892,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c1638c1f-0e21-4c80-903b-cace2052c8e3")
-		(property "Reference" "D8"
+		(property "Reference" "D7"
 			(at 52.07 64.7699 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4978,7 +4978,7 @@
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "D8")
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -4996,7 +4996,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c1f0c3a0-fe9f-4104-be19-0b0ffc21dece")
-		(property "Reference" "D6"
+		(property "Reference" "D21"
 			(at 90.17 45.7199 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5082,7 +5082,7 @@
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "D6")
+					(reference "D21")
 					(unit 1)
 				)
 			)
@@ -5180,7 +5180,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c7a22065-63bf-4873-8ad7-2838adf2c9c5")
-		(property "Reference" "D9"
+		(property "Reference" "D12"
 			(at 64.77 64.7699 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5266,7 +5266,7 @@
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "D9")
+					(reference "D12")
 					(unit 1)
 				)
 			)
@@ -5284,7 +5284,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dc17f19d-51cc-4e8f-b877-7428664f78b0")
-		(property "Reference" "D24"
+		(property "Reference" "D15"
 			(at 64.77 121.9199 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5370,7 +5370,7 @@
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "D24")
+					(reference "D15")
 					(unit 1)
 				)
 			)
@@ -5388,7 +5388,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e6bc90c7-ab3d-4e7d-a4d6-a24c93b0d4f9")
-		(property "Reference" "D25"
+		(property "Reference" "D10"
 			(at 52.07 121.9199 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5474,7 +5474,7 @@
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "D25")
+					(reference "D10")
 					(unit 1)
 				)
 			)
@@ -5652,7 +5652,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fa534968-b6c8-48c8-a643-c3839ddd3eae")
-		(property "Reference" "D23"
+		(property "Reference" "D25"
 			(at 90.17 121.9199 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5738,7 +5738,7 @@
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/194d9414-d5fd-4d49-94c7-ab8062ec2e41"
-					(reference "D23")
+					(reference "D25")
 					(unit 1)
 				)
 			)

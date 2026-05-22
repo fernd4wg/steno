@@ -2148,12 +2148,44 @@
 		(uuid "df7f76d4-ab53-4633-986b-cb3b63bc3ce6")
 	)
 	(no_connect
+		(at 105.41 119.38)
+		(uuid "037587ff-ffd5-401b-b5d4-c8136868eee9")
+	)
+	(no_connect
+		(at 105.41 93.98)
+		(uuid "1aa0b445-9704-4a09-bbb8-0c0d98c71596")
+	)
+	(no_connect
 		(at 54.61 139.7)
 		(uuid "1c472a84-87b9-47c9-bd57-42fa33d639f0")
 	)
 	(no_connect
+		(at 105.41 124.46)
+		(uuid "1e1e872d-42b4-4d78-b941-2828617ba853")
+	)
+	(no_connect
+		(at 105.41 101.6)
+		(uuid "20a6c281-02f8-46ff-a290-6e3ea491f689")
+	)
+	(no_connect
+		(at 105.41 91.44)
+		(uuid "375811b5-cafa-4190-9789-4782d0dfc6f7")
+	)
+	(no_connect
+		(at 105.41 127)
+		(uuid "466e1832-3bef-4b55-887b-600b76d0069d")
+	)
+	(no_connect
+		(at 105.41 137.16)
+		(uuid "52530190-107d-4f21-afc2-f64a9d479b8b")
+	)
+	(no_connect
 		(at 69.85 58.42)
 		(uuid "7a776dfc-d53e-4eda-8cdf-a96e3156145f")
+	)
+	(no_connect
+		(at 105.41 121.92)
+		(uuid "81f4e81c-e804-4036-b0d4-ffc2ff9d15af")
 	)
 	(no_connect
 		(at 92.71 58.42)
@@ -2162,6 +2194,54 @@
 	(no_connect
 		(at 54.61 137.16)
 		(uuid "84170571-0a08-4160-a78d-ff487460d9a2")
+	)
+	(no_connect
+		(at 105.41 109.22)
+		(uuid "8da60e7d-a92c-406e-ad28-07343d3bee23")
+	)
+	(no_connect
+		(at 105.41 134.62)
+		(uuid "90107faf-6929-45ab-8891-3eb64f134993")
+	)
+	(no_connect
+		(at 105.41 114.3)
+		(uuid "95859e09-d59d-4f10-98aa-d434e709bade")
+	)
+	(no_connect
+		(at 105.41 106.68)
+		(uuid "99991a2a-42cd-4093-b9da-a101bf290b49")
+	)
+	(no_connect
+		(at 105.41 88.9)
+		(uuid "abd763b9-0ee2-4296-8942-ce0ed4b5e76b")
+	)
+	(no_connect
+		(at 105.41 86.36)
+		(uuid "b1d9b988-bd36-4916-b2cc-eb4a5a050d94")
+	)
+	(no_connect
+		(at 105.41 83.82)
+		(uuid "d0cc2300-0b24-4d95-acf7-2fedee130f70")
+	)
+	(no_connect
+		(at 105.41 111.76)
+		(uuid "d4869923-b1a9-45db-a2bb-932eb949d83b")
+	)
+	(no_connect
+		(at 105.41 99.06)
+		(uuid "d7d21ac5-3358-48de-9cce-4b9a7d08d90e")
+	)
+	(no_connect
+		(at 105.41 96.52)
+		(uuid "d825e5cb-4565-451c-8485-3c665aa705b2")
+	)
+	(no_connect
+		(at 105.41 116.84)
+		(uuid "daa3a2ec-774f-4b8e-8aba-f4bdf226d4e9")
+	)
+	(no_connect
+		(at 105.41 104.14)
+		(uuid "dbfa5690-4a96-4d34-a110-c91392211df0")
 	)
 	(wire
 		(pts
@@ -2816,7 +2896,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "097c63b4-817d-4957-b458-c8e372050327")
-		(property "Reference" "C3"
+		(property "Reference" "C11"
 			(at 86.868 49.784 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2878,7 +2958,7 @@
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/62364b54-274f-4b51-b5e4-9f0011b2e23c"
-					(reference "C3")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -2896,7 +2976,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0e7f1927-21a9-494b-8913-e68b44b56dba")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR017"
 			(at 27.94 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -2956,7 +3036,7 @@
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/62364b54-274f-4b51-b5e4-9f0011b2e23c"
-					(reference "#PWR018")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -2974,7 +3054,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0f0fafa6-b18d-4d1b-81b0-2fb718ad8036")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR018"
 			(at 30.48 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -3034,7 +3114,7 @@
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/62364b54-274f-4b51-b5e4-9f0011b2e23c"
-					(reference "#PWR028")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -3052,7 +3132,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2da4767c-cd11-4625-9cf7-08f3ef1a2b37")
-		(property "Reference" "#PWR01"
+		(property "Reference" "#PWR021"
 			(at 48.26 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -3113,7 +3193,7 @@
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/62364b54-274f-4b51-b5e4-9f0011b2e23c"
-					(reference "#PWR01")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -3130,7 +3210,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "315f3c5b-cfd4-47b4-898a-56acbfba8b71")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR024"
 			(at 69.85 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -3191,7 +3271,7 @@
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/62364b54-274f-4b51-b5e4-9f0011b2e23c"
-					(reference "#PWR07")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -3289,7 +3369,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3a933e86-aeb0-4713-a3fd-f6b574a15cd8")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR028"
 			(at 90.17 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -3350,7 +3430,7 @@
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/62364b54-274f-4b51-b5e4-9f0011b2e23c"
-					(reference "#PWR09")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -3368,7 +3448,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "40ff5049-ef55-44ba-b4bc-ec11bc7e04fc")
-		(property "Reference" "U1"
+		(property "Reference" "U3"
 			(at 82.1533 148.59 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3619,7 +3699,7 @@
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/62364b54-274f-4b51-b5e4-9f0011b2e23c"
-					(reference "U1")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -3637,7 +3717,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5d3781fa-b8f6-4834-95fc-c928c497e25b")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR023"
 			(at 67.31 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -3697,7 +3777,7 @@
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/62364b54-274f-4b51-b5e4-9f0011b2e23c"
-					(reference "#PWR04")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -3715,7 +3795,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "620f5a25-078c-4ab5-8229-40b6633c0849")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR026"
 			(at 80.01 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -3775,7 +3855,7 @@
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/62364b54-274f-4b51-b5e4-9f0011b2e23c"
-					(reference "#PWR02")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -3792,7 +3872,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "655c0ec8-1aa7-4311-9a33-2217ae6003cc")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR022"
 			(at 59.69 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -3853,7 +3933,7 @@
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/62364b54-274f-4b51-b5e4-9f0011b2e23c"
-					(reference "#PWR06")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -3871,7 +3951,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7e3ce4a4-3437-4070-94fc-b50ef9136950")
-		(property "Reference" "C8"
+		(property "Reference" "C7"
 			(at 39.37 114.2999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3935,7 +4015,7 @@
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/62364b54-274f-4b51-b5e4-9f0011b2e23c"
-					(reference "C8")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -3953,7 +4033,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8ac60b41-7d4d-454d-ba73-263cb76b43de")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR019"
 			(at 35.56 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -4014,7 +4094,7 @@
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/62364b54-274f-4b51-b5e4-9f0011b2e23c"
-					(reference "#PWR017")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -4032,7 +4112,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8d1d731c-e496-4c6f-9847-26961453a88e")
-		(property "Reference" "C7"
+		(property "Reference" "C8"
 			(at 39.37 132.0799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4096,7 +4176,7 @@
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/62364b54-274f-4b51-b5e4-9f0011b2e23c"
-					(reference "C7")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -4113,7 +4193,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "92f1168d-407b-464e-b1e9-26774e7cbd4a")
-		(property "Reference" "C1"
+		(property "Reference" "C10"
 			(at 73.152 49.022 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4175,7 +4255,7 @@
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/62364b54-274f-4b51-b5e4-9f0011b2e23c"
-					(reference "C1")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -4193,7 +4273,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "981f7e80-251c-470c-b98b-429711ab51bb")
-		(property "Reference" "C2"
+		(property "Reference" "C9"
 			(at 63.5 45.72 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4255,7 +4335,7 @@
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/62364b54-274f-4b51-b5e4-9f0011b2e23c"
-					(reference "C2")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -4293,7 +4373,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Button_MJTP1243"
+		(property "Footprint" "3rd_party_footprints:SW4_PTS815 SJM 250 SMTR LFS_CNK"
 			(at 36.83 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -4353,7 +4433,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bc45ed6b-1714-47e8-9d8e-836ec0b97cb6")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR020"
 			(at 44.45 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -4413,7 +4493,7 @@
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/62364b54-274f-4b51-b5e4-9f0011b2e23c"
-					(reference "#PWR029")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -4430,7 +4510,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c1a2b736-d38d-4f5e-9e91-44f1ad99d4fa")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR025"
 			(at 77.47 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -4490,7 +4570,7 @@
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/62364b54-274f-4b51-b5e4-9f0011b2e23c"
-					(reference "#PWR05")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -4590,7 +4670,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cf46a6b5-5bf4-4fc1-9cb9-fe62cd48e389")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR029"
 			(at 97.79 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -4651,7 +4731,7 @@
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/62364b54-274f-4b51-b5e4-9f0011b2e23c"
-					(reference "#PWR016")
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -4668,7 +4748,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e5e3d8d7-17a1-4d8c-9adb-71e4bd11f502")
-		(property "Reference" "C6"
+		(property "Reference" "C12"
 			(at 98.298 46.736 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4730,7 +4810,7 @@
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/62364b54-274f-4b51-b5e4-9f0011b2e23c"
-					(reference "C6")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -4747,7 +4827,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fc5de30a-5c72-401f-904a-08cb1ce3fdc5")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR027"
 			(at 82.55 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -4807,7 +4887,7 @@
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631/62364b54-274f-4b51-b5e4-9f0011b2e23c"
-					(reference "#PWR08")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
