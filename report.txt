@@ -1,0 +1,15 @@
+Info: X scale constrained.
+Info: Y scale constrained.
+Plotted to '/home/f/Git/steno/steno-F_Cu.gbr'.
+Plotted to '/home/f/Git/steno/steno-In1_Cu.gbr'.
+Plotted to '/home/f/Git/steno/steno-In2_Cu.gbr'.
+Plotted to '/home/f/Git/steno/steno-B_Cu.gbr'.
+Plotted to '/home/f/Git/steno/steno-F_Paste.gbr'.
+Plotted to '/home/f/Git/steno/steno-B_Paste.gbr'.
+Plotted to '/home/f/Git/steno/steno-F_Silkscreen.gbr'.
+Plotted to '/home/f/Git/steno/steno-B_Silkscreen.gbr'.
+Plotted to '/home/f/Git/steno/steno-F_Mask.gbr'.
+Plotted to '/home/f/Git/steno/steno-B_Mask.gbr'.
+Plotted to '/home/f/Git/steno/steno-Edge_Cuts.gbr'.
+Created Gerber job file '/home/f/Git/steno/steno-job.gbrjob'.
+Info: Done.
