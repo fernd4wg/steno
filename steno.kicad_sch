@@ -5,7 +5,7 @@
 	(uuid "238e1d3b-9ec5-448b-85c7-386a29cd2631")
 	(paper "A4")
 	(lib_symbols
-		(symbol "Connector:USB_C_Receptacle_USB2.0_14P"
+		(symbol "Connector:USB_C_Receptacle_USB2.0_16P"
 			(pin_names
 				(offset 1.016)
 			)
@@ -24,7 +24,7 @@
 					)
 				)
 			)
-			(property "Value" "USB_C_Receptacle_USB2.0_14P"
+			(property "Value" "USB_C_Receptacle_USB2.0_16P"
 				(at 0 19.685 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -56,7 +56,7 @@
 					)
 				)
 			)
-			(property "Description" "USB 2.0-only 14P Type-C Receptacle connector"
+			(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -89,7 +89,7 @@
 					)
 				)
 			)
-			(symbol "USB_C_Receptacle_USB2.0_14P_0_0"
+			(symbol "USB_C_Receptacle_USB2.0_16P_0_0"
 				(rectangle
 					(start -0.254 -17.78)
 					(end 0.254 -16.764)
@@ -178,8 +178,30 @@
 						(type none)
 					)
 				)
+				(rectangle
+					(start 10.16 -12.446)
+					(end 9.144 -12.954)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 10.16 -14.986)
+					(end 9.144 -15.494)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
 			)
-			(symbol "USB_C_Receptacle_USB2.0_14P_0_1"
+			(symbol "USB_C_Receptacle_USB2.0_16P_0_1"
 				(rectangle
 					(start -10.16 17.78)
 					(end 10.16 -17.78)
@@ -380,7 +402,7 @@
 					)
 				)
 			)
-			(symbol "USB_C_Receptacle_USB2.0_14P_1_1"
+			(symbol "USB_C_Receptacle_USB2.0_16P_1_1"
 				(pin passive line
 					(at 0 -22.86 90)
 					(length 5.08)
@@ -464,6 +486,24 @@
 						)
 					)
 					(number "A7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 15.24 -12.7 180)
+					(length 5.08)
+					(name "SBU1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "A8"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -594,6 +634,24 @@
 						)
 					)
 					(number "B7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 15.24 -15.24 180)
+					(length 5.08)
+					(name "SBU2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "B8"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1412,10 +1470,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Regulator_Linear:AP2127N-3.3"
-			(pin_names
-				(offset 0.254)
-			)
+		(symbol "Regulator_Linear:NCP1117-3.3_SOT223"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -1431,7 +1486,7 @@
 					)
 				)
 			)
-			(property "Value" "AP2127N-3.3"
+			(property "Value" "NCP1117-3.3_SOT223"
 				(at 0 3.175 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1442,19 +1497,29 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-				(at 0 5.715 0)
+			(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
+				(at 0 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
-						(italic yes)
 					)
 				)
 			)
-			(property "Datasheet" "https://www.diodes.com/assets/Datasheets/AP2127.pdf"
+			(property "Datasheet" "http://www.onsemi.com/pub_link/Collateral/NCP1117-D.PDF"
+				(at 2.54 -6.35 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "1A Low drop-out regulator, Fixed Output 3.3V, SOT-223"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1465,7 +1530,7 @@
 					)
 				)
 			)
-			(property "Description" "300mA low dropout linear regulator, shutdown pin, 2.5V-6V input voltage, 3.3V fixed positive output, SOT-23 package"
+			(property "ki_keywords" "REGULATOR LDO 3.3V"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1476,7 +1541,7 @@
 					)
 				)
 			)
-			(property "ki_keywords" "linear regulator ldo fixed positive"
+			(property "ki_fp_filters" "SOT?223*TabPin2*"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1487,21 +1552,10 @@
 					)
 				)
 			)
-			(property "ki_fp_filters" "SOT?23*"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "AP2127N-3.3_0_1"
+			(symbol "NCP1117-3.3_SOT223_0_1"
 				(rectangle
-					(start -5.08 1.905)
-					(end 5.08 -5.08)
+					(start -5.08 -5.08)
+					(end 5.08 1.905)
 					(stroke
 						(width 0.254)
 						(type default)
@@ -1511,7 +1565,7 @@
 					)
 				)
 			)
-			(symbol "AP2127N-3.3_1_1"
+			(symbol "NCP1117-3.3_SOT223_1_1"
 				(pin power_in line
 					(at 0 -7.62 90)
 					(length 2.54)
@@ -2009,22 +2063,22 @@
 		(uuid "69c5916e-734e-4c98-90a7-b63966e3dd02")
 	)
 	(junction
-		(at 80.01 21.59)
+		(at 45.72 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "0c62c979-5ba0-4336-bbde-e9a019e77160")
+		(uuid "0794f2f6-a55b-42aa-8bdd-7265a184dbec")
 	)
 	(junction
-		(at 71.12 21.59)
+		(at 58.42 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "0d9e0a74-3798-4001-a7de-d2e40cbfd4c0")
+		(uuid "339b6ca9-2fc5-4ea8-8e9c-e80f033825aa")
 	)
 	(junction
-		(at 58.42 93.98)
+		(at 76.2 21.59)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "236e7553-2143-4a73-8b96-284f8cb9f6ba")
+		(uuid "53b04e13-7969-4163-a9b0-9b140ccdddb3")
 	)
 	(junction
 		(at 46.99 36.83)
@@ -2033,40 +2087,36 @@
 		(uuid "54dff2fe-8a9f-408e-b567-d908bf3af51a")
 	)
 	(junction
+		(at 58.42 88.9)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7f9ffb75-e84e-40d3-8e63-872bac58f606")
+	)
+	(junction
 		(at 45.72 106.68)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8e29dc0e-ed31-4f91-a220-c9e6248c164e")
 	)
 	(junction
-		(at 72.39 93.98)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a58f9727-cd5d-4363-adc7-f507eb8a029c")
-	)
-	(junction
-		(at 45.72 92.71)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c4209ed5-d700-4fc0-a70e-5dd4d0728dd1")
-	)
-	(junction
-		(at 100.33 21.59)
+		(at 105.41 21.59)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ca0d9445-e4a9-4361-bf68-72bae9d761f5")
-	)
-	(junction
-		(at 109.22 21.59)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d7bba0eb-d990-4542-a8cc-860971b9c186")
 	)
 	(junction
 		(at 46.99 41.91)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f2c8a76d-9dc5-4901-afe0-0d5841048d07")
+	)
+	(no_connect
+		(at 44.45 52.07)
+		(uuid "1d3e9159-0e1d-4e0b-b73d-fe660f2bd7e9")
+	)
+	(no_connect
+		(at 44.45 49.53)
+		(uuid "d556fa30-194d-492b-b2ee-20d4077c97bc")
 	)
 	(wire
 		(pts
@@ -2110,7 +2160,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 19.05) (xy 109.22 21.59)
+			(xy 105.41 20.32) (xy 105.41 21.59)
 		)
 		(stroke
 			(width 0)
@@ -2127,6 +2177,16 @@
 			(type default)
 		)
 		(uuid "1bfdd9e9-b11c-4c70-87ef-0b23e74cd27b")
+	)
+	(wire
+		(pts
+			(xy 76.2 21.59) (xy 82.55 21.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "246b32f0-6fb1-4de8-9e94-674e7861c008")
 	)
 	(polyline
 		(pts
@@ -2160,6 +2220,16 @@
 	)
 	(wire
 		(pts
+			(xy 58.42 83.82) (xy 58.42 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "337a0ca2-4896-42f1-b6ea-466037c08fb5")
+	)
+	(wire
+		(pts
 			(xy 46.99 34.29) (xy 44.45 34.29)
 		)
 		(stroke
@@ -2170,13 +2240,13 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 85.09) (xy 45.72 92.71)
+			(xy 58.42 88.9) (xy 45.72 88.9)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3d29a458-7997-4e62-b140-b64760a03c34")
+		(uuid "3feebb76-9b23-456e-ab18-8e0985ab474f")
 	)
 	(wire
 		(pts
@@ -2187,16 +2257,6 @@
 			(type default)
 		)
 		(uuid "56ed46f4-277b-480f-ac86-0f5ecdba491d")
-	)
-	(wire
-		(pts
-			(xy 72.39 93.98) (xy 83.82 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "74308da2-2a23-44f4-be27-494e745c721f")
 	)
 	(wire
 		(pts
@@ -2250,7 +2310,7 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 21.59) (xy 100.33 21.59)
+			(xy 97.79 21.59) (xy 105.41 21.59)
 		)
 		(stroke
 			(width 0)
@@ -2287,16 +2347,6 @@
 			(type default)
 		)
 		(uuid "9905c8e3-bfb6-4632-8b34-b9efdc6deae6")
-	)
-	(wire
-		(pts
-			(xy 58.42 93.98) (xy 58.42 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9f8a12f9-3acc-403d-b0d4-ce697edece7e")
 	)
 	(polyline
 		(pts
@@ -2360,13 +2410,13 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 21.59) (xy 82.55 21.59)
+			(xy 58.42 80.01) (xy 58.42 83.82)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c84c57a6-2779-4dce-850a-3daa06cbfc49")
+		(uuid "c6a0bb93-af1c-4a1b-a32a-1a149fa0f089")
 	)
 	(wire
 		(pts
@@ -2380,6 +2430,16 @@
 	)
 	(wire
 		(pts
+			(xy 45.72 88.9) (xy 45.72 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d3b7b12c-dd02-45de-ae9a-fa6617a04122")
+	)
+	(wire
+		(pts
 			(xy 58.42 29.21) (xy 54.61 29.21)
 		)
 		(stroke
@@ -2387,26 +2447,6 @@
 			(type default)
 		)
 		(uuid "d4d40ada-53d7-4c03-a7e9-a6c555470c18")
-	)
-	(wire
-		(pts
-			(xy 58.42 90.17) (xy 58.42 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dcaeaa4b-8b67-48cd-ad49-cf68123c0208")
-	)
-	(wire
-		(pts
-			(xy 71.12 21.59) (xy 80.01 21.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "de6e12a3-01f5-48e0-8569-294bc11e3a94")
 	)
 	(polyline
 		(pts
@@ -2420,7 +2460,7 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 21.59) (xy 71.12 21.59)
+			(xy 64.77 21.59) (xy 76.2 21.59)
 		)
 		(stroke
 			(width 0)
@@ -2430,17 +2470,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 21.59) (xy 109.22 21.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f5f2b909-aae6-493e-99c7-7c6f94eef147")
-	)
-	(wire
-		(pts
-			(xy 72.39 93.98) (xy 58.42 93.98)
+			(xy 72.39 83.82) (xy 58.42 83.82)
 		)
 		(stroke
 			(width 0)
@@ -2719,85 +2749,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 109.22 25.4 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "0ec05ad3-27b0-4eda-a84c-e77aadc9c38f")
-		(property "Reference" "C6"
-			(at 113.03 25.4 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "47uF"
-			(at 113.03 27.94 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
-			(at 110.1852 29.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 109.22 25.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 109.22 25.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "5f1939a6-9c29-4314-95c0-c080b40ab711")
-		)
-		(pin "2"
-			(uuid "d5acdd9e-7756-4b51-9bca-789773702766")
-		)
-		(instances
-			(project "steno"
-				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631"
-					(reference "C6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_US")
 		(at 50.8 26.67 90)
 		(unit 1)
@@ -2828,7 +2779,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 51.054 25.654 90)
 			(hide yes)
 			(show_name no)
@@ -2878,86 +2829,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 71.12 25.4 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "225fa2e5-63a5-4725-bc40-bf8480e18b52")
-		(property "Reference" "C1"
-			(at 75.692 27.432 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "47uF"
-			(at 75.692 29.972 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
-			(at 72.0852 29.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 71.12 25.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 71.12 25.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "0e065326-1590-4c63-afc9-a3262f0bb496")
-		)
-		(pin "2"
-			(uuid "bce7ac08-6e7f-4c51-8aa9-301eaef493e6")
-		)
-		(instances
-			(project "steno"
-				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631"
-					(reference "C1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 100.33 25.4 0)
+		(at 105.41 25.4 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2967,7 +2839,7 @@
 		(dnp no)
 		(uuid "271ead2b-f2d5-4972-9d84-7213f932849e")
 		(property "Reference" "C5"
-			(at 104.902 27.432 0)
+			(at 109.982 27.432 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2976,8 +2848,8 @@
 				)
 			)
 		)
-		(property "Value" "1uF"
-			(at 104.902 29.972 0)
+		(property "Value" "10u"
+			(at 109.982 29.972 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2986,8 +2858,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
-			(at 101.2952 29.21 0)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 106.3752 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2998,7 +2870,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 100.33 25.4 0)
+			(at 105.41 25.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3009,7 +2881,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 100.33 25.4 0)
+			(at 105.41 25.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3036,7 +2908,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 80.01 25.4 0)
+		(at 76.2 25.4 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3046,7 +2918,7 @@
 		(dnp no)
 		(uuid "28515f51-e1dc-4369-b58c-b729893a0787")
 		(property "Reference" "C3"
-			(at 84.582 27.432 0)
+			(at 80.772 27.432 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3055,8 +2927,8 @@
 				)
 			)
 		)
-		(property "Value" "1uF"
-			(at 84.582 29.972 0)
+		(property "Value" "10u"
+			(at 80.772 29.972 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3065,8 +2937,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
-			(at 80.9752 29.21 0)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 77.1652 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3077,7 +2949,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 80.01 25.4 0)
+			(at 76.2 25.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3088,7 +2960,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 80.01 25.4 0)
+			(at 76.2 25.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3212,7 +3084,7 @@
 				)
 			)
 		)
-		(property "Value" "270 Ohm"
+		(property "Value" "27 Ohm"
 			(at 57.404 47.498 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3222,7 +3094,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 57.404 40.894 90)
 			(hide yes)
 			(show_name no)
@@ -3301,7 +3173,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 51.054 28.194 90)
 			(hide yes)
 			(show_name no)
@@ -3350,8 +3222,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:USB_C_Receptacle_USB2.0_14P")
-		(at 29.21 36.83 0)
+		(lib_id "Regulator_Linear:NCP1117-3.3_SOT223")
+		(at 90.17 21.59 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3360,9 +3232,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "3c888ebe-9f97-4587-8db5-c0eac63ff005")
-		(property "Reference" "J1"
-			(at 29.21 13.97 0)
+		(uuid "453fae48-518f-4eb3-8d66-738f31fe7e1e")
+		(property "Reference" "U4"
+			(at 90.17 15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3371,8 +3243,8 @@
 				)
 			)
 		)
-		(property "Value" "USB_C_Receptacle_USB2.0_14P"
-			(at 29.21 16.51 0)
+		(property "Value" "NCP1117-3.3_SOT223"
+			(at 90.17 17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3381,8 +3253,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12"
-			(at 33.02 36.83 0)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
+			(at 90.17 16.51 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3392,8 +3264,8 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
-			(at 33.02 36.83 0)
+		(property "Datasheet" "http://www.onsemi.com/pub_link/Collateral/NCP1117-D.PDF"
+			(at 92.71 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3403,8 +3275,8 @@
 				)
 			)
 		)
-		(property "Description" "USB 2.0-only 14P Type-C Receptacle connector"
-			(at 29.21 36.83 0)
+		(property "Description" "1A Low drop-out regulator, Fixed Output 3.3V, SOT-223"
+			(at 90.17 21.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3414,55 +3286,19 @@
 				)
 			)
 		)
-		(pin "A9"
-			(uuid "c35965c6-97de-489d-bb0b-a860eccb3e3b")
+		(pin "1"
+			(uuid "f16eb871-9e3d-4e38-8df0-0bc37f31167e")
 		)
-		(pin "A12"
-			(uuid "eee6004a-b82b-4a9e-8a06-571ad34709c6")
+		(pin "2"
+			(uuid "32c7d36e-740c-4210-bf80-730426c14c05")
 		)
-		(pin "A7"
-			(uuid "69348719-cda3-4046-85a7-1aca8ae584a9")
-		)
-		(pin "B7"
-			(uuid "66d1fb76-004a-4733-aad4-36e5fc515382")
-		)
-		(pin "B6"
-			(uuid "4f89999a-b369-4e1f-b80a-993dbdf09df2")
-		)
-		(pin "B5"
-			(uuid "4cfe737b-e3fa-4614-9a24-fb48d4ce598a")
-		)
-		(pin "A4"
-			(uuid "d6ad47dd-20ea-4eac-8338-a35a2255cc12")
-		)
-		(pin "B1"
-			(uuid "39849b64-a728-42b1-9a9e-b4dafca872ad")
-		)
-		(pin "B4"
-			(uuid "30e0bd56-4350-484f-836c-58f108fffaa6")
-		)
-		(pin "A1"
-			(uuid "8dd269f6-2fc8-4295-8b77-7635fe506857")
-		)
-		(pin "SH"
-			(uuid "a5bb761d-757a-4e7d-b8f8-cb36c8847727")
-		)
-		(pin "A5"
-			(uuid "e0ddfa9a-4772-4cc5-a2d3-24727e606d8c")
-		)
-		(pin "A6"
-			(uuid "72bb7b9b-4482-437d-9bbf-764adef88056")
-		)
-		(pin "B12"
-			(uuid "188c8724-468c-4cd6-abdd-f4f0b3d3584a")
-		)
-		(pin "B9"
-			(uuid "641053a1-2505-4b77-916a-dd9a4ed04341")
+		(pin "3"
+			(uuid "fc62be02-2f25-455a-80af-f15e8651d1f3")
 		)
 		(instances
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631"
-					(reference "J1")
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -3500,7 +3336,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323F"
+		(property "Footprint" "Diode_SMD:D_SOD-123F"
 			(at 60.96 21.59 0)
 			(hide yes)
 			(show_name no)
@@ -3550,7 +3386,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 100.33 29.21 0)
+		(at 105.41 29.21 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3561,7 +3397,7 @@
 		(fields_autoplaced yes)
 		(uuid "5a56b4ef-6a7a-44de-8079-87d74f6028b2")
 		(property "Reference" "#PWR014"
-			(at 100.33 35.56 0)
+			(at 105.41 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3572,7 +3408,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 100.3301 33.02 90)
+			(at 105.4101 33.02 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3583,7 +3419,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 100.33 29.21 0)
+			(at 105.41 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3594,7 +3430,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 100.33 29.21 0)
+			(at 105.41 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3605,7 +3441,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 100.33 29.21 0)
+			(at 105.41 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3706,87 +3542,8 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3.3V")
-		(at 45.72 85.09 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "65669abe-0595-4feb-ad78-ac31c8f2f16a")
-		(property "Reference" "#PWR04"
-			(at 45.72 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 48.26 83.8199 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 45.72 85.09 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 45.72 85.09 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 45.72 85.09 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "d4793f97-a514-42ee-ad08-0cca6aff3d97")
-		)
-		(instances
-			(project "steno"
-				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631"
-					(reference "#PWR04")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
-		(at 72.39 101.6 0)
+		(at 72.39 91.44 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3797,7 +3554,7 @@
 		(fields_autoplaced yes)
 		(uuid "74cfb42d-2c86-4579-8f43-a4cb2891f2ad")
 		(property "Reference" "#PWR010"
-			(at 72.39 107.95 0)
+			(at 72.39 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3808,7 +3565,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 72.3901 105.41 90)
+			(at 72.3901 95.25 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3819,7 +3576,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 72.39 101.6 0)
+			(at 72.39 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3830,7 +3587,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 72.39 101.6 0)
+			(at 72.39 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3841,7 +3598,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 72.39 101.6 0)
+			(at 72.39 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3975,7 +3732,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 46.736 99.314 90)
 			(hide yes)
 			(show_name no)
@@ -4044,7 +3801,7 @@
 				)
 			)
 		)
-		(property "Value" "270 Ohm"
+		(property "Value" "27 Ohm"
 			(at 57.15 34.29 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4054,7 +3811,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 57.404 35.814 90)
 			(hide yes)
 			(show_name no)
@@ -4097,90 +3854,6 @@
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631"
 					(reference "R4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Regulator_Linear:AP2127N-3.3")
-		(at 90.17 21.59 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9b972371-1593-4dc2-b214-68552bc02a70")
-		(property "Reference" "U2"
-			(at 90.17 15.24 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "AP2127N-3.3"
-			(at 90.17 17.78 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 90.17 15.875 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/AP2127.pdf"
-			(at 90.17 21.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "300mA low dropout linear regulator, shutdown pin, 2.5V-6V input voltage, 3.3V fixed positive output, SOT-23 package"
-			(at 90.17 21.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "76220405-bdab-4bef-8e18-99b6bf78911e")
-		)
-		(pin "1"
-			(uuid "a42c89bc-d837-4828-a820-97f1e0fa5177")
-		)
-		(pin "3"
-			(uuid "bb99eb5b-9e6a-4060-badb-70759d432f2e")
-		)
-		(instances
-			(project "steno"
-				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631"
-					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -4265,8 +3938,133 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:USB_C_Receptacle_USB2.0_16P")
+		(at 29.21 36.83 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b159ad81-7168-4734-9d63-bfc7172de662")
+		(property "Reference" "J2"
+			(at 29.21 13.97 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "USB_C_Receptacle_USB2.0_16P"
+			(at 29.21 16.51 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_HCTL_HC-TYPE-C-16P-01A"
+			(at 33.02 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
+			(at 33.02 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
+			(at 29.21 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "B4"
+			(uuid "1d2497e8-2c85-4120-becd-eb84c923c5b9")
+		)
+		(pin "B6"
+			(uuid "6508d97d-8cc4-4d9b-8330-8a6635d7b906")
+		)
+		(pin "B7"
+			(uuid "89a698ad-4d42-4d71-b38f-4576464d7d86")
+		)
+		(pin "B8"
+			(uuid "b2669305-b799-44a2-b90b-e9362ba0cef3")
+		)
+		(pin "B9"
+			(uuid "10917c52-2744-4356-9113-2766e8f994a6")
+		)
+		(pin "B5"
+			(uuid "f640b7c1-52db-4cf2-90f3-2816b121b88a")
+		)
+		(pin "SH"
+			(uuid "5ea89280-8056-4f90-9b86-10670ac2be34")
+		)
+		(pin "A12"
+			(uuid "5c52be30-e0b2-42e9-8b5a-2978ecdd868f")
+		)
+		(pin "A9"
+			(uuid "2adda228-5394-409c-abf0-99653cf104b3")
+		)
+		(pin "A8"
+			(uuid "001b1296-c0b1-4024-9df3-f715afa5a916")
+		)
+		(pin "A7"
+			(uuid "53641952-7a4e-4ccb-a334-4a74a4dc3cf5")
+		)
+		(pin "A5"
+			(uuid "ce33bbde-732d-4260-b2da-f3bbfb6d51a2")
+		)
+		(pin "A6"
+			(uuid "0f5ad716-d5ab-44fd-a859-3c64928abc65")
+		)
+		(pin "A4"
+			(uuid "fb99f45a-373c-464b-91e6-afcbc478c10e")
+		)
+		(pin "B1"
+			(uuid "3a6a7878-207a-4af8-9c0c-47a640938c11")
+		)
+		(pin "A1"
+			(uuid "62cfdbe1-168a-4c0f-ace9-5a0bd683f03e")
+		)
+		(pin "B12"
+			(uuid "2e83a965-d268-42ee-b7f9-80861a9c2a6e")
+		)
+		(instances
+			(project "steno"
+				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631"
+					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
-		(at 72.39 97.79 0)
+		(at 72.39 87.63 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4276,7 +4074,7 @@
 		(dnp no)
 		(uuid "b6d53d63-a7b2-4637-9c25-4b3a7ef18717")
 		(property "Reference" "C2"
-			(at 77.978 96.52 0)
+			(at 77.978 86.36 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4286,7 +4084,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 77.978 99.06 0)
+			(at 77.978 88.9 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4295,8 +4093,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
-			(at 73.3552 101.6 0)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 73.3552 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4307,7 +4105,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 72.39 97.79 0)
+			(at 72.39 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4318,7 +4116,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 72.39 97.79 0)
+			(at 72.39 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4425,7 +4223,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 58.42 90.17 0)
+		(at 58.42 80.01 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4436,7 +4234,7 @@
 		(fields_autoplaced yes)
 		(uuid "bf4b320e-f27d-46af-a8ab-c25ca356d41e")
 		(property "Reference" "#PWR07"
-			(at 58.42 93.98 0)
+			(at 58.42 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4447,7 +4245,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 60.96 88.8999 0)
+			(at 60.96 78.7399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4458,7 +4256,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 58.42 90.17 0)
+			(at 58.42 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4469,7 +4267,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 58.42 90.17 0)
+			(at 58.42 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4480,7 +4278,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 58.42 90.17 0)
+			(at 58.42 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4582,7 +4380,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 80.01 29.21 0)
+		(at 76.2 29.21 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4592,7 +4390,7 @@
 		(dnp no)
 		(uuid "c2432ada-b808-40be-aaf4-38e18f895de4")
 		(property "Reference" "#PWR011"
-			(at 80.01 35.56 0)
+			(at 76.2 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4603,7 +4401,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 81.788 33.02 0)
+			(at 77.978 33.02 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4614,7 +4412,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 80.01 29.21 0)
+			(at 76.2 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4625,7 +4423,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 80.01 29.21 0)
+			(at 76.2 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4636,7 +4434,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 80.01 29.21 0)
+			(at 76.2 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4653,323 +4451,6 @@
 			(project "steno"
 				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631"
 					(reference "#PWR011")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 83.82 97.79 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c314fdb1-43c6-4f2f-bb56-2a663b0deec8")
-		(property "Reference" "C4"
-			(at 87.63 96.5199 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "2.2uF"
-			(at 87.63 99.0599 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
-			(at 84.7852 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 83.82 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 83.82 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "81ffe71a-fb77-42e8-b668-72dfca9c9fa3")
-		)
-		(pin "2"
-			(uuid "e9d8359d-a72e-4096-9245-893e23f34aea")
-		)
-		(instances
-			(project "steno"
-				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631"
-					(reference "C4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 83.82 101.6 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "cc8faadd-550f-4f7f-8650-2cb514fb3d0e")
-		(property "Reference" "#PWR012"
-			(at 83.82 107.95 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 83.8201 105.41 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 83.82 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 83.82 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 83.82 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "318f1ce5-7c99-40de-9393-f3e856dd3fd4")
-		)
-		(instances
-			(project "steno"
-				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631"
-					(reference "#PWR012")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 71.12 29.21 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "d02aaaff-8dec-4ad9-a907-ad79eca3801b")
-		(property "Reference" "#PWR09"
-			(at 71.12 35.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 72.898 33.02 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 71.12 29.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 71.12 29.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 71.12 29.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "a1b97037-f18a-4182-8473-277b0a0a82e6")
-		)
-		(instances
-			(project "steno"
-				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631"
-					(reference "#PWR09")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 109.22 29.21 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "d35f3616-ad8e-49be-8786-4400cd61afa3")
-		(property "Reference" "#PWR016"
-			(at 109.22 35.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 110.998 33.02 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 109.22 29.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 109.22 29.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 109.22 29.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "d2af5977-f813-49b8-9664-4dc60e41379d")
-		)
-		(instances
-			(project "steno"
-				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631"
-					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -5155,7 +4636,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 109.22 19.05 0)
+		(at 105.41 20.32 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5166,7 +4647,7 @@
 		(fields_autoplaced yes)
 		(uuid "fc832b52-8af3-4530-883f-714d2b201573")
 		(property "Reference" "#PWR015"
-			(at 109.22 22.86 0)
+			(at 105.41 24.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5177,7 +4658,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 109.22 13.97 0)
+			(at 105.41 15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5187,7 +4668,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 109.22 19.05 0)
+			(at 105.41 20.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5198,7 +4679,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 109.22 19.05 0)
+			(at 105.41 20.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5209,7 +4690,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 109.22 19.05 0)
+			(at 105.41 20.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

@@ -41,7 +41,7 @@
         "pads": {
           "drill": 0.0,
           "height": 0.62,
-          "width": 0.735
+          "width": 0.56
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -78,15 +78,27 @@
       ],
       "drc_exclusions": [
         [
-          "clearance|161010000|82700000|d9aeeb42-f130-48e6-a392-6e827f07f7a6|c8cee00e-8277-443c-b732-989c9178f762",
+          "copper_edge_clearance|145780000|77555000|80895bc4-8b6c-4f8f-9685-e91cc8d2e7a3|823f8d3b-c052-41f9-a29f-c81a3026830f",
           ""
         ],
         [
-          "copper_edge_clearance|145780000|77550000|80895bc4-8b6c-4f8f-9685-e91cc8d2e7a3|f5885a8d-f4f9-4809-ba02-54d8847a05c1",
+          "copper_edge_clearance|154420000|77555000|80895bc4-8b6c-4f8f-9685-e91cc8d2e7a3|341da060-4215-45db-b3a9-91096d1eb7c7",
           ""
         ],
         [
-          "copper_edge_clearance|154420000|77550000|80895bc4-8b6c-4f8f-9685-e91cc8d2e7a3|c7faa3cc-a4e1-4bcb-8725-13a3c224f9c9",
+          "hole_clearance|147050000|82175000|c63665e2-9982-45ca-b604-74bebb65e5e5|fcd75e0e-288a-4743-be68-2abd99358534",
+          ""
+        ],
+        [
+          "hole_clearance|147050000|82175000|fdfe0bf4-0092-4700-b2ac-f60d1e100166|fcd75e0e-288a-4743-be68-2abd99358534",
+          ""
+        ],
+        [
+          "hole_clearance|153150000|82175000|37124a95-0903-41e3-b936-7526d6d7acb8|38cdbb43-28f6-487c-90dd-4023e081a001",
+          ""
+        ],
+        [
+          "hole_clearance|153150000|82175000|55a1cbb5-d167-4215-bad7-440455b8df8c|38cdbb43-28f6-487c-90dd-4023e081a001",
           ""
         ]
       ],
@@ -706,7 +718,7 @@
         "uuid": "238e1d3b-9ec5-448b-85c7-386a29cd2631"
       }
     ],
-    "used_designators": "R8,#PWR31,D26",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
