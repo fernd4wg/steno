@@ -1470,7 +1470,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Regulator_Linear:NCP1117-3.3_SOT223"
+		(symbol "Regulator_Linear:AMS1117-3.3"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -1486,7 +1486,7 @@
 					)
 				)
 			)
-			(property "Value" "NCP1117-3.3_SOT223"
+			(property "Value" "AMS1117-3.3"
 				(at 0 3.175 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1508,7 +1508,7 @@
 					)
 				)
 			)
-			(property "Datasheet" "http://www.onsemi.com/pub_link/Collateral/NCP1117-D.PDF"
+			(property "Datasheet" "http://www.advanced-monolithic.com/pdf/ds1117.pdf"
 				(at 2.54 -6.35 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1519,7 +1519,7 @@
 					)
 				)
 			)
-			(property "Description" "1A Low drop-out regulator, Fixed Output 3.3V, SOT-223"
+			(property "Description" "1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1530,7 +1530,7 @@
 					)
 				)
 			)
-			(property "ki_keywords" "REGULATOR LDO 3.3V"
+			(property "ki_keywords" "linear regulator ldo fixed positive"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1552,7 +1552,7 @@
 					)
 				)
 			)
-			(symbol "NCP1117-3.3_SOT223_0_1"
+			(symbol "AMS1117-3.3_0_1"
 				(rectangle
 					(start -5.08 -5.08)
 					(end 5.08 1.905)
@@ -1565,7 +1565,7 @@
 					)
 				)
 			)
-			(symbol "NCP1117-3.3_SOT223_1_1"
+			(symbol "AMS1117-3.3_1_1"
 				(pin power_in line
 					(at 0 -7.62 90)
 					(length 2.54)
@@ -2063,12 +2063,6 @@
 		(uuid "69c5916e-734e-4c98-90a7-b63966e3dd02")
 	)
 	(junction
-		(at 45.72 92.71)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0794f2f6-a55b-42aa-8bdd-7265a184dbec")
-	)
-	(junction
 		(at 58.42 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2091,6 +2085,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7f9ffb75-e84e-40d3-8e63-872bac58f606")
+	)
+	(junction
+		(at 45.72 100.33)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "844787d8-61f2-4159-b53b-ef8ba229045c")
 	)
 	(junction
 		(at 45.72 106.68)
@@ -2120,7 +2120,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 92.71) (xy 45.72 92.71)
+			(xy 41.91 100.33) (xy 45.72 100.33)
 		)
 		(stroke
 			(width 0)
@@ -2150,16 +2150,6 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 92.71) (xy 45.72 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "147874ea-5878-43ac-8c1a-2ab38752a725")
-	)
-	(wire
-		(pts
 			(xy 105.41 20.32) (xy 105.41 21.59)
 		)
 		(stroke
@@ -2167,6 +2157,16 @@
 			(type default)
 		)
 		(uuid "14846ac2-83f6-42a9-8f7e-79b71efff9c4")
+	)
+	(wire
+		(pts
+			(xy 45.72 97.79) (xy 45.72 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a3d86e3-8daf-41fb-9438-03da4e482b4c")
 	)
 	(wire
 		(pts
@@ -2250,6 +2250,16 @@
 	)
 	(wire
 		(pts
+			(xy 45.72 100.33) (xy 45.72 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ef93e56-76db-4d6d-99e2-6ce8164101d4")
+	)
+	(wire
+		(pts
 			(xy 60.96 36.83) (xy 67.31 36.83)
 		)
 		(stroke
@@ -2277,6 +2287,16 @@
 			(type default)
 		)
 		(uuid "7c3461e0-5e55-4519-892a-a87c71fc17b1")
+	)
+	(wire
+		(pts
+			(xy 30.48 100.33) (xy 30.48 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7f4b5589-414d-4fef-97c1-f08394048edd")
 	)
 	(wire
 		(pts
@@ -2380,7 +2400,7 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 92.71) (xy 31.75 92.71)
+			(xy 30.48 100.33) (xy 31.75 100.33)
 		)
 		(stroke
 			(width 0)
@@ -2400,16 +2420,6 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 92.71) (xy 26.67 96.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b9f9368a-5470-4108-80fc-9d312316f5bc")
-	)
-	(wire
-		(pts
 			(xy 58.42 80.01) (xy 58.42 83.82)
 		)
 		(stroke
@@ -2420,17 +2430,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 102.87) (xy 45.72 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cc04dfca-5b01-45b5-ab95-81db3106b14f")
-	)
-	(wire
-		(pts
-			(xy 45.72 88.9) (xy 45.72 92.71)
+			(xy 45.72 88.9) (xy 45.72 90.17)
 		)
 		(stroke
 			(width 0)
@@ -2749,6 +2749,89 @@
 		)
 	)
 	(symbol
+		(lib_id "Regulator_Linear:AMS1117-3.3")
+		(at 90.17 21.59 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1275556e-b802-44ea-9b65-04bd603e5af4")
+		(property "Reference" "U2"
+			(at 90.17 15.24 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AMS1117-3.3"
+			(at 90.17 17.78 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
+			(at 90.17 16.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "http://www.advanced-monolithic.com/pdf/ds1117.pdf"
+			(at 92.71 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223"
+			(at 90.17 21.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "a1425280-13df-4de0-beba-b7e2f0c3a797")
+		)
+		(pin "1"
+			(uuid "dd0c5776-0bcf-4ed1-bd59-0ac4bb07477e")
+		)
+		(pin "3"
+			(uuid "a0674286-ff9c-4b02-aef1-efad4ee4c872")
+		)
+		(instances
+			(project "steno"
+				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631"
+					(reference "U2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_US")
 		(at 50.8 26.67 90)
 		(unit 1)
@@ -2987,7 +3070,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 26.67 96.52 0)
+		(at 30.48 101.6 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2997,7 +3080,7 @@
 		(dnp no)
 		(uuid "2f7090ff-d51e-46ff-b80f-282b429c38ad")
 		(property "Reference" "#PWR02"
-			(at 26.67 102.87 0)
+			(at 30.48 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3008,7 +3091,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 26.6701 100.33 0)
+			(at 30.4801 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3019,7 +3102,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 26.67 96.52 0)
+			(at 30.48 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3030,7 +3113,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 26.67 96.52 0)
+			(at 30.48 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3041,7 +3124,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 26.67 96.52 0)
+			(at 30.48 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3222,89 +3305,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Regulator_Linear:NCP1117-3.3_SOT223")
-		(at 90.17 21.59 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "453fae48-518f-4eb3-8d66-738f31fe7e1e")
-		(property "Reference" "U4"
-			(at 90.17 15.24 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "NCP1117-3.3_SOT223"
-			(at 90.17 17.78 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
-			(at 90.17 16.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "http://www.onsemi.com/pub_link/Collateral/NCP1117-D.PDF"
-			(at 92.71 27.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "1A Low drop-out regulator, Fixed Output 3.3V, SOT-223"
-			(at 90.17 21.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "f16eb871-9e3d-4e38-8df0-0bc37f31167e")
-		)
-		(pin "2"
-			(uuid "32c7d36e-740c-4210-bf80-730426c14c05")
-		)
-		(pin "3"
-			(uuid "fc62be02-2f25-455a-80af-f15e8651d1f3")
-		)
-		(instances
-			(project "steno"
-				(path "/238e1d3b-9ec5-448b-85c7-386a29cd2631"
-					(reference "U4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:D_Schottky")
 		(at 60.96 21.59 180)
 		(unit 1)
@@ -3336,7 +3336,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123F"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 60.96 21.59 0)
 			(hide yes)
 			(show_name no)
@@ -3700,7 +3700,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 45.72 99.06 0)
+		(at 45.72 93.98 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3711,7 +3711,7 @@
 		(fields_autoplaced yes)
 		(uuid "90d9d699-f01a-48cf-9acc-0711bf4b2e9b")
 		(property "Reference" "R1"
-			(at 48.26 97.7899 0)
+			(at 48.26 92.7099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3722,7 +3722,7 @@
 			)
 		)
 		(property "Value" "1k Ohms"
-			(at 48.26 100.3299 0)
+			(at 48.26 95.2499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3733,7 +3733,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 46.736 99.314 90)
+			(at 46.736 94.234 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3744,7 +3744,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 45.72 99.06 0)
+			(at 45.72 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3755,7 +3755,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 45.72 99.06 0)
+			(at 45.72 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4143,7 +4143,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 36.83 92.71 0)
+		(at 36.83 100.33 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4154,7 +4154,7 @@
 		(fields_autoplaced yes)
 		(uuid "b838a917-a860-4ffd-bb9b-3519cef1150e")
 		(property "Reference" "BOOTSEL1"
-			(at 36.83 85.09 0)
+			(at 36.83 92.71 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4164,7 +4164,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 36.83 87.63 0)
+			(at 36.83 95.25 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4174,7 +4174,7 @@
 			)
 		)
 		(property "Footprint" "3rd_party_footprints:SW4_PTS815 SJM 250 SMTR LFS_CNK"
-			(at 36.83 87.63 0)
+			(at 36.83 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4185,7 +4185,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 36.83 87.63 0)
+			(at 36.83 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4196,7 +4196,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 36.83 92.71 0)
+			(at 36.83 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
